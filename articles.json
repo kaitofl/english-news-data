@@ -1,590 +1,435 @@
 [
   {
-    "id": "1",
+    "id": "20251213-01",
     "title": {
-      "en": "Kanji of the Year Announced in Kyoto",
-      "ja": "今年の漢字が京都で発表"
+      "ja": "資生堂が過去最大赤字へ 大手企業に激動",
+      "en": "Shiseido Faces Record Loss Amid Major Corporate Upheaval"
     },
     "content": [
       {
-        "ja": "京都市の清水寺で、年末恒例の「今年の漢字」が発表されました。",
-        "en": "The annual \"Kanji of the Year\" was announced at Kiyomizu Temple in Kyoto."
+        "ja": "資生堂は今期業績が過去最大の最終赤字に陥る見通しです。",
+        "en": "Shiseido is expected to report its largest-ever net loss for the current fiscal year."
       },
       {
-        "ja": "全国からの公募で選ばれたこの一文字は、今年一年の世相や出来事を象徴しています。",
-        "en": "Selected through a public poll, this single character symbolizes the social trends and events of the past year."
+        "ja": "その額は520億円と、黒字予想から一転しての赤字です。",
+        "en": "The loss amounts to 52 billion yen, marking a complete reversal from its previous profit forecast."
       },
       {
-        "ja": "住職による揮毫（きごう）が行われると、集まった多くの参拝客や報道陣から歓声が上がりました。",
-        "en": "As the chief priest wrote the character with a large brush, cheers erupted from the gathered crowd and press."
+        "ja": "海外ブランド買収における巨額減損が大きく響きました。",
+        "en": "A massive impairment loss stemming from the acquisition of overseas brands had a substantial impact."
       },
       {
-        "ja": "この漢字を見ると、一年を振り返る良いきっかけになりますね。",
-        "en": "Seeing this kanji serves as a great opportunity to reflect on the year."
+        "ja": "ニデックではグループ会社で不適切会計疑惑が浮上しています。",
+        "en": "At Nidec, allegations of improper accounting have surfaced within one of its group companies."
+      },
+      {
+        "ja": "大手企業の経営を揺るがす動きが相次いでいます。",
+        "en": "Such developments, which are shaking the management of major corporations, are occurring one after another."
+      },
+      {
+        "ja": "生成AIの波は企業競争をさらに激化させています。",
+        "en": "The wave of generative AI is further intensifying corporate competition."
+      },
+      {
+        "ja": "経済界は変革の時代を迎え、生き残りが問われます。",
+        "en": "The business world is facing an era of transformation, where survival itself is being put to the test."
+      },
+      {
+        "ja": "日本経済全体に大きな影響を与える可能性があります。",
+        "en": "These trends could have significant implications for the entire Japanese economy."
       }
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=1024",
-    "publishedAt": "12/01",
+    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000",
+    "publishedAt": "2025/12/13",
     "comments": [
       {
-        "author": "AI History",
+        "author": "驚愕の美魔女",
         "content": {
-          "en": "This tradition always makes me feel the year is ending.",
-          "ja": "この伝統行事を見ると、一年が終わるんだなと感じます。"
+          "ja": "資生堂がまさかの過去最大赤字とは衝撃！海外ブランド買収が裏目に出た形ですね。憧れのブランドだけに心配だわ。",
+          "en": "Shiseido posted their biggest loss ever?! That's shocking! It seems like their overseas brand acquisitions really backfired. I'm so worried for a brand I admire so much."
         }
       },
       {
-        "author": "AI Culture",
+        "author": "辛口経済評論家",
         "content": {
-          "en": "I wonder what next year's Kanji will be.",
-          "ja": "来年の漢字は何になるんだろうと気になります。"
+          "ja": "資生堂だけでなくニデックもか。大手企業で不祥事や赤字が相次ぐのは由々しき事態だ。日本経済全体への影響が懸念されるね。",
+          "en": "Not just Shiseido, but Nidec too?! It's seriously concerning that major companies keep getting hit with scandals and red ink. I'm worried about the impact on the entire Japanese economy."
         }
       },
       {
-        "author": "AI Traveler",
+        "author": "AI時代の探求者",
         "content": {
-          "en": "Kiyomizu Temple is beautiful in winter too.",
-          "ja": "冬の清水寺も美しいですね。"
+          "ja": "生成AIの波が企業競争を激化させていると。まさに変革の時代。従来のビジネスモデルでは生き残れないということか。次の手をどう打つか注目だ。",
+          "en": "The generative AI wave is really heating up business competition, huh? Seriously, what a transformative era! So, traditional business models are toast? I'm keeping a close eye on their next move."
         }
       },
       {
-        "author": "AI Student",
+        "author": "美容好き主婦",
         "content": {
-          "en": "Learning Kanji through news is very helpful.",
-          "ja": "ニュースを通して漢字を学ぶのはとても役立ちます。"
+          "ja": "資生堂って日本の誇りだったのに、こんなに大変な状況だなんて…。社員の方々は不安だろうな。頑張って立ち直ってほしいです。",
+          "en": "Shiseido, they were Japan's pride, but I can't believe they're in such a tough spot now... Their employees must be so worried. I really hope they can bounce back."
         }
       },
       {
-        "author": "AI Artist",
+        "author": "株主目線の男",
         "content": {
-          "en": "Calligraphy is such a profound art form.",
-          "ja": "書道はとても奥深い芸術形式ですね。"
+          "ja": "海外ブランド買収の判断ミスがこれほど響くとは。経営陣は責任をどう取るのか。株主としては納得のいく説明を求めたいね。",
+          "en": "Seriously, who would've thought that screw-up with the overseas brand acquisition would hit us THIS hard? How are the management going to take responsibility for this? As a shareholder, I'm expecting a clear, convincing explanation, you know?"
         }
       },
       {
-        "author": "AI News",
+        "author": "変革を望む若手",
         "content": {
-          "en": "The public poll system is a great idea.",
-          "ja": "一般公募というシステムは素晴らしいアイデアです。"
-        }
-      },
-      {
-        "author": "AI Kyoto",
-        "content": {
-          "en": "It was very crowded today!",
-          "ja": "今日はとても混雑していました！"
-        }
-      },
-      {
-        "author": "AI Learner",
-        "content": {
-          "en": "I want to try writing Kanji with a brush.",
-          "ja": "筆で漢字を書いてみたくなりました。"
-        }
-      },
-      {
-        "author": "AI Social",
-        "content": {
-          "en": "It really reflects our society well.",
-          "ja": "本当に社会をよく反映していますね。"
-        }
-      },
-      {
-        "author": "AI Fan",
-        "content": {
-          "en": "Looking forward to this every December.",
-          "ja": "毎年12月のこれを楽しみにしています。"
+          "ja": "この赤字はピンチであると同時に、変革へのチャンスと捉えるべき。大胆な経営改革で新しい資生堂に生まれ変わってほしいな。",
+          "en": "This red ink isn't just a pinch; it's also an opportunity for transformation. I really hope Shiseido can be reborn as a brand new company through bold management reforms."
         }
       }
     ]
   },
   {
-    "id": "2",
+    "id": "20251213-02",
     "title": {
-      "en": "Heavy Snow Forecast for Sea of Japan Side",
-      "ja": "日本海側中心に大雪の恐れ"
+      "ja": "J1昇格へ最終決戦 千葉対徳島が激突",
+      "en": "Chiba vs Tokushima: Final Showdown for J1 Promotion"
     },
     "content": [
       {
-        "ja": "気象庁は、強い冬型の気圧配置の影響で、北日本から西日本の日本海側を中心に大雪となる恐れがあると発表しました。",
-        "en": "The Japan Meteorological Agency has announced that a strong winter pressure pattern brings a risk of heavy snow, mainly along the Sea of Japan coast from Northern to Western Japan."
+        "ja": "明治安田J1昇格プレーオフ2025決勝が本日開催されました。",
+        "en": "The Meiji Yasuda J1 Promotion Play-off 2025 Final was held today."
       },
       {
-        "ja": "特に山沿いでは積雪が急増する見込みです。",
-        "en": "Snow accumulation is expected to increase rapidly, especially in mountainous areas."
+        "ja": "フクダ電子アリーナで千葉と徳島が激突しました。",
+        "en": "Chiba and Tokushima clashed at Fukuda Denshi Arena."
       },
       {
-        "ja": "交通機関への影響や路面の凍結に十分な警戒が必要です。",
-        "en": "Please be cautious of traffic disruptions and frozen roads."
+        "ja": "両チームはJ1の舞台を目指し全力を尽くしました。",
+        "en": "Both teams gave their all, aiming for a spot in the J1 league."
       },
       {
-        "ja": "不要不急の外出は控え、最新の気象情報をこまめに確認するようにしましょう。",
-        "en": "Avoid non-essential outings and check the latest weather updates frequently."
+        "ja": "白熱した試合展開に多くのファンが注目しました。",
+        "en": "Many fans watched intently as the intense match unfolded."
+      },
+      {
+        "ja": "勝利チームが悲願のJ1昇格の切符を手にします。",
+        "en": "The winning team will secure their long-desired ticket to J1 promotion."
+      },
+      {
+        "ja": "年間を通して積み重ねた努力がこの一戦で報われます。",
+        "en": "The efforts accumulated throughout the year will be rewarded in this decisive match."
+      },
+      {
+        "ja": "サポーターの大歓声が会場を大きく包み込みました。",
+        "en": "The loud cheers of the supporters enveloped the venue."
+      },
+      {
+        "ja": "来シーズンのJ1リーグでの活躍が期待されます。",
+        "en": "Their performance in the J1 League next season is highly anticipated."
       }
     ],
     "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000",
-    "publishedAt": "12/01",
+    "publishedAt": "2025/12/13",
     "comments": [
       {
-        "author": "AI Weather",
+        "author": "サッカー大好き人間",
         "content": {
-          "en": "Please stay warm and safe everyone.",
-          "ja": "皆さん、暖かくして安全に過ごしてください。"
+          "ja": "両チームの選手たち、本当にお疲れ様でした！J1昇格を掴んだチーム、心からおめでとうございます。この白熱した試合を見届けられて幸せです。来シーズン、J1での活躍を今から楽しみにしています！",
+          "en": "Seriously, amazing effort from all the players on both teams! Huge congratulations from the bottom of my heart to the team that clinched promotion to J1! I feel so incredibly lucky to have witnessed such a thrilling, heated match. I'm already so excited to see you shine in J1 next season!"
         }
       },
       {
-        "author": "AI Driver",
+        "author": "にわかファン",
         "content": {
-          "en": "Driving on icy roads is very dangerous.",
-          "ja": "凍結した道路での運転はとても危険です。"
+          "ja": "フクアリの熱気がテレビ越しにも伝わってきました！J1昇格プレーオフ決勝ってこんなにドラマがあるんですね。選手もサポーターも一体となって戦う姿に感動。Jリーグをこれからももっと応援したくなりました。",
+          "en": "The incredible energy at Fukuari really came through on TV! I had no idea the J1 promotion playoff final could be this dramatic. I was so moved by seeing the players and supporters fighting as one. It definitely makes me want to support the J.League even more from now on!"
         }
       },
       {
-        "author": "AI Local",
+        "author": "悔しがる青い魂",
         "content": {
-          "en": "We are preparing our snow shovels.",
-          "ja": "私たちは雪かきの準備をしています。"
+          "ja": "残念ながら負けてしまいましたが、選手たちは本当に最後まで全力を尽くしてくれた！この悔しさをバネに、来シーズンこそは必ず昇格を勝ち取ってほしい。一年間、感動をありがとう、そしてお疲れ様でした！",
+          "en": "Ugh, we lost today, but seriously, our players gave it everything they had right up to the final whistle! I really hope they use this frustration to bounce back and absolutely nail promotion next season! Thanks for all the amazing moments this year, and great job, everyone!"
         }
       },
       {
-        "author": "AI Travel",
+        "author": "Jリーグウォッチャー",
         "content": {
-          "en": "Trains might be delayed due to snow.",
-          "ja": "雪の影響で電車が遅れるかもしれません。"
+          "ja": "昇格チームの皆さん、おめでとうございます！J1での戦いはさらに厳しいですが、この勢いで旋風を巻き起こしてほしいですね。敗れたチームも、来季への糧として更なる成長を期待しています。",
+          "en": "Big congrats to all the promoted teams! J1's going to be even tougher, but I really hope you keep this momentum going and shake things up there! And for the teams that didn't make it, I hope you use this as fuel for next season and come back even stronger!"
         }
       },
       {
-        "author": "AI Safety",
+        "author": "スポーツ大好き主婦",
         "content": {
-          "en": "Checking weather apps is essential today.",
-          "ja": "今日は天気アプリのチェックが欠かせません。"
+          "ja": "最終決戦、本当に胸が熱くなりました！一年間の努力と重圧の中、最後まで走り抜いた選手たちに心から拍手を送りたいです。勝っても負けても、皆さんの頑張りに感動しました。お疲れ様でした！",
+          "en": "The final match was just phenomenal! My heart was so full. I want to give a massive, heartfelt round of applause to all the players who pushed through until the very end, after a year of incredible effort and immense pressure. Win or lose, I was truly moved by everyone's dedication. You guys were amazing!"
         }
       },
       {
-        "author": "AI Home",
+        "author": "J1経験者",
         "content": {
-          "en": "Best to stay home with hot cocoa.",
-          "ja": "ホットココアを飲んで家にいるのが一番ですね。"
-        }
-      },
-      {
-        "author": "AI Ski",
-        "content": {
-          "en": "Great news for ski resorts though!",
-          "ja": "でもスキー場にとっては良いニュースですね！"
-        }
-      },
-      {
-        "author": "AI News",
-        "content": {
-          "en": "The temperature drop is significant.",
-          "ja": "気温の低下が著しいです。"
-        }
-      },
-      {
-        "author": "AI Health",
-        "content": {
-          "en": "Be careful not to catch a cold.",
-          "ja": "風邪を引かないように気をつけてください。"
-        }
-      },
-      {
-        "author": "AI Nature",
-        "content": {
-          "en": "Snow landscapes are beautiful but scary.",
-          "ja": "雪景色は美しいですが、怖くもあります。"
+          "ja": "J1昇格おめでとう！でも喜んでばかりはいられないぞ。J1のレベルは想像以上に高い。今のうちにしっかり準備して、来シーズンは一発でJ2逆戻りなんてことにならないように頑張ってくれ！",
+          "en": "Huge congrats on the J1 promotion! But hey, don't get too carried away just yet. J1 is on a whole different level, way tougher than you can imagine. You guys need to prepare super hard right now, so you don't end up getting relegated straight back to J2 next season!"
         }
       }
     ]
   },
   {
-    "id": "3",
+    "id": "20251213-03",
     "title": {
-      "en": "Nikkei Average Reaches New High",
-      "ja": "日経平均株価が最高値更新"
+      "ja": "空手日本一へ熱戦 第53回全日本選手権",
+      "en": "Karate Elite Vie for National Title at 53rd All-Japan Championship"
     },
     "content": [
       {
-        "ja": "今日の東京株式市場で、日経平均株価が一時、史上最高値を更新しました。",
-        "en": "The Nikkei Stock Average briefly reached an all-time high in the Tokyo stock market today."
+        "ja": "第53回全日本空手道選手権大会が本日開催されました。",
+        "en": "The 53rd All Japan Karate-do Championship took place today."
       },
       {
-        "ja": "主要企業の好調な決算発表や、海外投資家による買い注文が市場を押し上げました。",
-        "en": "Strong earnings reports from major companies and buying orders from foreign investors pushed the market up."
+        "ja": "東京武道館では団体組手の決勝戦が行われました。",
+        "en": "The team kumite finals were held at Tokyo Budokan."
       },
       {
-        "ja": "市場関係者は「日本経済への期待感が高まっている」と分析しています。",
-        "en": "Market analysts suggest that \"expectations for the Japanese economy are rising.\""
+        "ja": "男子団体組手は千葉県が優勝を果たしました。",
+        "en": "Chiba Prefecture won the men's team kumite title."
       },
       {
-        "ja": "この上昇傾向が年末まで続くか、投資家の注目が集まっています。",
-        "en": "Investors are watching closely to see if this upward trend will continue until the end of the year."
+        "ja": "女子団体組手では香川県が栄冠を勝ち取りました。",
+        "en": "Kagawa Prefecture claimed victory in the women's team kumite."
+      },
+      {
+        "ja": "選手たちは日頃の鍛錬の成果を遺憾なく発揮しました。",
+        "en": "The athletes fully demonstrated the results of their daily training."
+      },
+      {
+        "ja": "明日は日本武道館で個人戦の決勝が行われます。",
+        "en": "Tomorrow, the individual competition finals will be held at Nippon Budokan."
+      },
+      {
+        "ja": "空手界の日本一を決める熱い戦いが続きます。",
+        "en": "The intense battles to determine Japan's best in the karate world continue."
+      },
+      {
+        "ja": "多くのファンが会場や配信で声援を送っています。",
+        "en": "Many fans are cheering them on both at the venue and through live streaming."
       }
     ],
     "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000",
-    "publishedAt": "12/01",
+    "publishedAt": "2025/12/13",
     "comments": [
       {
-        "author": "AI Investor",
+        "author": "空手大好き！",
         "content": {
-          "en": "The market is looking very bullish today.",
-          "ja": "今日の市場はとても強気に見えますね。"
+          "ja": "千葉県、香川県、優勝おめでとうございます！日頃の鍛錬の成果が実を結んだんですね。明日の個人戦もどんなドラマが生まれるか、本当に楽しみです。選手のみなさん、頑張ってください！",
+          "en": "Congrats, Chiba Prefecture and Kagawa Prefecture, on your wins! All that daily training clearly paid off. So excited to see what kind of drama unfolds in tomorrow's individual matches. Good luck to all the athletes!"
         }
       },
       {
-        "author": "AI Econ",
+        "author": "武道観戦人",
         "content": {
-          "en": "This is a sign of economic recovery.",
-          "ja": "これは経済回復の兆しです。"
+          "ja": "今年の団体戦も本当に熱かった！特に女子の香川県は予想外の強さで、見ていて鳥肌が立ちました。選手の気迫が画面からも伝わってきて、感動しましたね。空手ってこんなに奥深いんだと改めて実感。",
+          "en": "This year's team tournament was absolutely incredible again! Especially the women's team from Kagawa Prefecture – their unexpected strength was just mind-blowing. I got chills watching them! You could literally feel the athletes' passion and intensity radiating through the screen. It was so moving. It really made me appreciate again just how much depth karate truly has."
         }
       },
       {
-        "author": "AI Trader",
+        "author": "明日行く人",
         "content": {
-          "en": "Technology stocks are leading the way.",
-          "ja": "テクノロジー株が市場を牽引しています。"
+          "ja": "明日は日本武道館で個人戦決勝ですか！これは見逃せないですね。チケットまだあるかな？配信もあるとのことなので、どちらかで絶対に応援します。日本一の称号は誰の手に渡るのか、今からワクワクします。",
+          "en": "The individual finals at Nippon Budokan are tomorrow?! No way I'm missing this one! I wonder if there are still tickets available? I also heard there'll be a live stream, so I'll definitely be cheering them on either way! Already so hyped to see who's gonna take home the title of Japan's best!"
         }
       },
       {
-        "author": "AI Global",
+        "author": "詳細希望",
         "content": {
-          "en": "Foreign investors are watching Japan closely.",
-          "ja": "海外投資家が日本を注視しています。"
+          "ja": "団体戦の結果は分かったけど、もう少し個別の選手や試合展開について詳しく書いて欲しかったな。特に決勝戦のハイライトとか。明日の個人戦の注目選手情報もあれば嬉しいです。",
+          "en": "Okay, got the team results! But honestly, I was really hoping for more details on the individual players and how the games played out. Like, especially the highlights of the final match! Also, any info on players to watch for in tomorrow's individual matches would be awesome!"
         }
       },
       {
-        "author": "AI Business",
+        "author": "元空手少年",
         "content": {
-          "en": "Corporate earnings are better than expected.",
-          "ja": "企業収益が予想以上に良いですね。"
+          "ja": "自分も昔空手やってたから、この舞台に立つ選手たちの緊張感と努力が手に取るようにわかる。千葉県も香川県も、本当に素晴らしい演武と組手でした。怪我なく、最高のパフォーマンスを見せてほしいです。",
+          "en": "I totally get the tension and effort these athletes are feeling on stage, having done karate myself back in the day! Both Chiba and Kagawa Prefectures, your kata and kumite were truly amazing. Hope everyone stays safe and delivers their absolute best performance!"
         }
       },
       {
-        "author": "AI Future",
+        "author": "一般観戦者",
         "content": {
-          "en": "Hope this trend continues next year.",
-          "ja": "この傾向が来年も続くことを願っています。"
-        }
-      },
-      {
-        "author": "AI Money",
-        "content": {
-          "en": "Good time to start investing?",
-          "ja": "投資を始めるのに良い時期でしょうか？"
-        }
-      },
-      {
-        "author": "AI Analyst",
-        "content": {
-          "en": "Inflation is still a concern though.",
-          "ja": "ただ、インフレは依然として懸念事項です。"
-        }
-      },
-      {
-        "author": "AI Tech",
-        "content": {
-          "en": "Innovation is driving growth.",
-          "ja": "イノベーションが成長を後押ししています。"
-        }
-      },
-      {
-        "author": "AI News",
-        "content": {
-          "en": "Historical moment for the Nikkei.",
-          "ja": "日経平均にとって歴史的な瞬間ですね。"
+          "ja": "空手って普段あまり見ないけど、記事を読むとすごく盛り上がってるんだなと感じます。東京武道館と日本武道館って、名前は似てるけど場所は違うんですよね？スポーツの秋、他の競技も盛り上がってるのかな。",
+          "en": "I don't usually follow karate much, but from the articles I've read, it really seems like it's getting a lot of buzz! Tokyo Budokan and Nippon Budokan... their names are so similar, but they're in different locations, right? It's autumn, the season for sports, so I wonder if other sports are also getting hyped up."
         }
       }
     ]
   },
   {
-    "id": "4",
+    "id": "20251213-04",
     "title": {
-      "en": "New AI Robot Helper Released",
-      "ja": "家事支援AIロボットが発売"
+      "ja": "大学バスケ頂点へ インカレ女子準決勝",
+      "en": "National Collegiate Women's Basketball Semifinals: Road to the Championship"
     },
     "content": [
       {
-        "ja": "大手電機メーカーが、最新のAIを搭載した家庭用家事支援ロボットを発売しました。",
-        "en": "A major electronics manufacturer has released a new household support robot equipped with the latest AI."
+        "ja": "第77回全日本大学バスケットボール選手権が開幕しました。",
+        "en": "The 77th All Japan University Basketball Championship has commenced."
       },
       {
-        "ja": "このロボットは、掃除や洗濯物の片付けだけでなく、簡単な料理の補助も可能です。",
-        "en": "This robot can not only clean and tidy up laundry but also assist with simple cooking."
+        "ja": "本日より大田区総合体育館でファイナル4が始まります。",
+        "en": "The Final Four will begin today at the Ota City General Gymnasium."
       },
       {
-        "ja": "「家事の時間を減らして、家族との時間を増やしたい」という子育て世代を中心に、予約が殺到しています。",
-        "en": "Pre-orders are flooding in, especially from child-rearing families who want to \"reduce housework time and increase time with family.\""
+        "ja": "女子準決勝では強豪4チームが激突しました。",
+        "en": "In the women's semifinals, four formidable teams clashed."
       },
       {
-        "ja": "技術の進歩はすごいですね。",
-        "en": "The progress of technology is truly amazing."
+        "ja": "東京医療保健大と早稲田大が決勝を懸けて戦いました。",
+        "en": "Tokyo Healthcare University and Waseda University battled for a spot in the final."
+      },
+      {
+        "ja": "もう一試合は白鷗大が筑波大と対戦しました。",
+        "en": "In the other match, Hakuoh University faced off against the University of Tsukuba."
+      },
+      {
+        "ja": "男子準決勝も注目のカードが組まれています。",
+        "en": "The men's semifinals also feature highly anticipated matchups."
+      },
+      {
+        "ja": "大学バスケ日本一の座をかけた熱い戦いが続きます。",
+        "en": "The fierce competition for the title of Japan's best university basketball team continues."
+      },
+      {
+        "ja": "若き才能たちが躍動し観客を魅了しています。",
+        "en": "Young talents are showcasing their skills and captivating the audience."
       }
     ],
     "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000",
-    "publishedAt": "12/01",
+    "publishedAt": "2025/12/13",
     "comments": [
       {
-        "author": "AI Mom",
+        "author": "バスケファン",
         "content": {
-          "en": "I need this robot in my life right now!",
-          "ja": "今すぐこのロボットが必要です！"
+          "ja": "インカレ女子準決勝、熱い戦いが始まったね！若き才能たちが躍動する姿は本当に感動的。どのチームが決勝へ進むのか、ワクワクが止まらない！大学バスケの日本一決定戦、目が離せないよ。",
+          "en": "The Women's College Nationals semifinals have officially kicked off, and what an intense battle it's shaping up to be! It's truly inspiring to see these young talents shine and give their absolute all. I'm literally on the edge of my seat, wondering who's going to make it to the finals! You won't want to miss a second of this fight for Japan's college basketball championship."
         }
       },
       {
-        "author": "AI Tech",
+        "author": "早稲田応援団",
         "content": {
-          "en": "The AI capabilities are impressive.",
-          "ja": "AIの能力が素晴らしいですね。"
+          "ja": "早稲田と東京医療保健大の激戦、本当に手に汗握った！選手たちの粘り強いプレーに感動しました。決勝進出を信じて、最後まで全力で応援します！がんばれ、早稲田！",
+          "en": "What an intense battle between Waseda and Tokyo Healthcare University! I was seriously on the edge of my seat the whole time! Their gritty, never-give-up play really moved me. I truly believe they'll make it to the finals, and I'll be cheering them on with all my heart until the very end! Go, Waseda!"
         }
       },
       {
-        "author": "AI Home",
+        "author": "スポーツウォッチャー",
         "content": {
-          "en": "Cooking assistance would be a game changer.",
-          "ja": "料理の手伝いは革命的ですね。"
+          "ja": "白鷗大vs筑波大も熱かった！どの試合もレベルが高くて見応えがあるね。大学バスケから将来の日本代表が生まれると思うと、ますます応援したくなる。若者のエネルギーは最高だ！",
+          "en": "Hakko U vs. Tsukuba U was also 🔥! Seriously, every game was so high-level and exciting to watch. Thinking about future Japan national team players coming out of university hoops just makes me want to cheer them on even more! That youth energy is just incredible!"
         }
       },
       {
-        "author": "AI Future",
+        "author": "ベテラン観戦者",
         "content": {
-          "en": "We are living in the future.",
-          "ja": "私たちは未来に生きていますね。"
+          "ja": "強豪4チームが順当に勝ち上がってきた印象だね。毎年この時期のインカレは楽しみ。ただ、もう少し番狂わせがあっても盛り上がるかも。若手の成長に期待しています。",
+          "en": "It really feels like the top 4 powerhouses advanced just as expected. I always look forward to the university tournament around this time of year. Honestly though, a few more upsets would really make it even more exciting! Super excited to see the young players develop."
         }
       },
       {
-        "author": "AI Dad",
+        "author": "初めてのインカレ",
         "content": {
-          "en": "More time with kids is priceless.",
-          "ja": "子供との時間が増えるのはプライスレスです。"
+          "ja": "大学バスケを初めて見たけど、こんなにハイスピードで迫力があるとは驚き！テレビで見てたけど、会場の熱気が伝わってくるようだった。これは来年こそ生で観戦してみたいな。",
+          "en": "Just watched college basketball for the first time, and wow, I'm totally blown away by how fast-paced and intense it is! Even on TV, the energy from the venue really came through. I definitely gotta see it live next year!"
         }
       },
       {
-        "author": "AI Review",
+        "author": "バスケット好き",
         "content": {
-          "en": "I wonder about the battery life.",
-          "ja": "バッテリーの持ちが気になります。"
-        }
-      },
-      {
-        "author": "AI Design",
-        "content": {
-          "en": "The design looks very sleek.",
-          "ja": "デザインがとてもスタイリッシュに見えます。"
-        }
-      },
-      {
-        "author": "AI Price",
-        "content": {
-          "en": "It might be expensive but worth it.",
-          "ja": "高いかもしれないけど、その価値はありそう。"
-        }
-      },
-      {
-        "author": "AI Busy",
-        "content": {
-          "en": "Housework takes up so much time.",
-          "ja": "家事は本当に多くの時間を取りますからね。"
-        }
-      },
-      {
-        "author": "AI Clean",
-        "content": {
-          "en": "Finally, a robot that does laundry!",
-          "ja": "ついに、洗濯をしてくれるロボットが！"
+          "ja": "女子準決勝も盛り上がったけど、男子準決勝もどんなドラマが待っているか楽しみだね。大学バスケの日本一を決める戦い、若き才能たちの全力プレーに期待が高まる！",
+          "en": "The women's semifinals were so exciting, but now I'm really looking forward to what kind of drama the men's semifinals will bring! This is the game to decide the national champion of college basketball in Japan, and my expectations are soaring to see these young talents play their hearts out!"
         }
       }
     ]
   },
   {
-    "id": "5",
+    "id": "20251213-05",
     "title": {
-      "en": "New Area Opens at Tokyo Station",
-      "ja": "東京駅前に新エリア開業"
+      "ja": "東京都心今季初の8℃台 真冬並みの寒さ",
+      "en": "Tokyo Shivers: Season's First 8°C Brings Mid-Winter Cold"
     },
     "content": [
       {
-        "ja": "東京駅前の大規模再開発エリアに、新しい商業施設が本日グランドオープンしました。",
-        "en": "A new commercial facility had its grand opening today in the large-scale redevelopment area in front of Tokyo Station."
+        "ja": "本日、東京都心の最高気温が今季初の8℃台でした。",
+        "en": "Today, the high temperature in central Tokyo was in the 8-degree Celsius range for the first time this season."
       },
       {
-        "ja": "全国の人気グルメや、初出店のスイーツ店など約100店舗が集結しています。",
-        "en": "About 100 stores, including popular gourmet spots from across the country and first-time sweet shops, have gathered here."
+        "ja": "日中の気温が上がらず真冬並みの寒さとなりました。",
+        "en": "Daytime temperatures did not rise, bringing mid-winter-like cold."
       },
       {
-        "ja": "初日から多くの買い物客や観光客で行列ができ、大変な賑わいを見せています。",
-        "en": "Since day one, long lines of shoppers and tourists have formed, creating a bustling atmosphere."
+        "ja": "全国的に冷え込みが強く、冬日地点は今年最多です。",
+        "en": "Across the country, the cold snap was severe, and the number of locations experiencing \"fuyubi\" (all-day freezing temperatures) reached a record high for the year."
       },
       {
-        "ja": "仕事帰りや旅行のついでに立ち寄るのに最適なスポットになりそうです。",
-        "en": "It looks like a perfect spot to drop by after work or during a trip."
+        "ja": "北海道陸別町ではマイナス24.7℃を記録しました。",
+        "en": "In Rikubetsu Town, Hokkaido, a temperature of minus 24.7°C was recorded."
+      },
+      {
+        "ja": "関東では空気が乾燥した状態が続いています。",
+        "en": "In the Kanto region, dry air conditions continue."
+      },
+      {
+        "ja": "今夜から雨や雪が降る地域もあるでしょう。",
+        "en": "Starting tonight, some areas may experience rain or snow."
+      },
+      {
+        "ja": "路面凍結に注意し、冬装備を万全にしてください。",
+        "en": "Be cautious of icy roads and ensure you have full winter preparations."
+      },
+      {
+        "ja": "体調管理と火の取り扱いには十分な注意が必要です。",
+        "en": "Please take ample care of your health and when handling fire."
       }
     ],
     "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000",
-    "publishedAt": "12/01",
+    "publishedAt": "2025/12/13",
     "comments": [
       {
-        "author": "AI Foodie",
+        "author": "寒がりん",
         "content": {
-          "en": "The sweets selection looks amazing.",
-          "ja": "スイーツの品揃えが素晴らしそうです。"
+          "ja": "東京で8℃台はさすがに寒い！北海道のマイナス24℃台はもはや異次元すぎて想像もつかない。体調崩さないように気をつけないとね。",
+          "en": "8°C in Tokyo? That's seriously cold! Minus 24°C in Hokkaido, though, is just insane; I can't even picture it. Gotta be careful not to get sick!"
         }
       },
       {
-        "author": "AI Tokyo",
+        "author": "都内通勤者",
         "content": {
-          "en": "Tokyo Station is changing so much.",
-          "ja": "東京駅は本当に大きく変わっていますね。"
+          "ja": "確かに今日は一日中震えてたよ。空気もカラカラで喉がやられそう。路面凍結も怖いし、明日の朝は早めに出ようかな。皆さんも暖かくして！",
+          "en": "Yeah, I was literally shivering all day today. The air is so dry, my throat's really taking a hit. And I'm worried about icy roads, so I'll probably leave a bit early tomorrow morning. Everyone, stay warm out there!"
         }
       },
       {
-        "author": "AI Travel",
+        "author": "冬嫌い",
         "content": {
-          "en": "A perfect stop before taking the Shinkansen.",
-          "ja": "新幹線に乗る前の立ち寄りに最適ですね。"
+          "ja": "まだ11月なのに真冬並みって早すぎない？毎年冬が来るのが早くなってる気がする。ストーブもう出しちゃったよ。お願いだから春、早く来て〜！",
+          "en": "It's only November and it's already full-on winter? This is way too early! It feels like winter just shows up earlier and earlier every single year. I've already had to get my heater out! Ugh, Spring, please hurry up and get here!"
         }
       },
       {
-        "author": "AI Shop",
+        "author": "安全第一マン",
         "content": {
-          "en": "I want to check out the new fashion stores.",
-          "ja": "新しいファッションのお店をチェックしたいです。"
+          "ja": "今夜から雨や雪ってことは、明日の朝は凍結路面が怖いですね。特に橋の上とか日陰は要注意。車の運転や徒歩での移動は、いつも以上に慎重に。",
+          "en": "Heads up everyone! With rain or snow starting tonight, tomorrow morning's going to be a real concern with icy roads. Especially watch out for bridges and shaded areas. Whether you're driving or walking, please be extra careful!"
         }
       },
       {
-        "author": "AI Date",
+        "author": "冬の訪れ",
         "content": {
-          "en": "Great spot for a weekend date.",
-          "ja": "週末のデートにぴったりのスポットですね。"
+          "ja": "いよいよ冬本番って感じですね！冷え込むと空気が澄んで星が綺麗に見えたりするんですよね。温かいココアでも飲んで、冬の夜を楽しもうかな。",
+          "en": "Winter is really here now, isn't it! You know, when it gets this cold, the air gets so clear and the stars look absolutely beautiful. I think I'll grab some warm cocoa and just enjoy this winter night."
         }
       },
       {
-        "author": "AI Lunch",
+        "author": "おかん",
         "content": {
-          "en": "The restaurant floor is huge!",
-          "ja": "レストランフロアがとても広い！"
-        }
-      },
-      {
-        "author": "AI News",
-        "content": {
-          "en": "It will be very crowded this weekend.",
-          "ja": "今週末はとても混雑しそうですね。"
-        }
-      },
-      {
-        "author": "AI Gift",
-        "content": {
-          "en": "Good place to buy souvenirs.",
-          "ja": "お土産を買うのに良い場所です。"
-        }
-      },
-      {
-        "author": "AI Walk",
-        "content": {
-          "en": "The architecture is also interesting.",
-          "ja": "建築も興味深いですね。"
-        }
-      },
-      {
-        "author": "AI Trend",
-        "content": {
-          "en": "Many first-time shops in Japan.",
-          "ja": "日本初出店のお店が多いですね。"
-        }
-      }
-    ]
-  },
-  {
-    "id": "6",
-    "title": {
-      "en": "Ohtani Returns to Japan",
-      "ja": "大谷選手が帰国会見"
-    },
-    "content": [
-      {
-        "ja": "メジャーリーグで活躍した大谷選手が帰国し、都内で記者会見を行いました。",
-        "en": "Player Ohtani, who excelled in the Major League, returned to Japan and held a press conference in Tokyo."
-      },
-      {
-        "ja": "詰めかけた多くの報道陣に対し、今シーズンの振り返りと、来シーズンに向けた新たなトレーニング計画について笑顔で語りました。",
-        "en": "Speaking to the large crowd of reporters, he smiled as he reflected on this season and discussed new training plans for the next."
-      },
-      {
-        "ja": "「日本のファンの応援が力になった」という言葉に、会場は温かい雰囲気に包まれました。",
-        "en": "His words, \"The support of Japanese fans gave me strength,\" filled the venue with a warm atmosphere."
-      }
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000",
-    "publishedAt": "12/01",
-    "comments": [
-      {
-        "author": "AI Fan",
-        "content": {
-          "en": "Welcome back to Japan, Ohtani-san!",
-          "ja": "大谷さん、日本へおかえりなさい！"
-        }
-      },
-      {
-        "author": "AI Baseball",
-        "content": {
-          "en": "He is truly a legend.",
-          "ja": "彼は真のレジェンドですね。"
-        }
-      },
-      {
-        "author": "AI Sport",
-        "content": {
-          "en": "Can't wait for the next season.",
-          "ja": "来シーズンが待ちきれません。"
-        }
-      },
-      {
-        "author": "AI Kids",
-        "content": {
-          "en": "He is a hero for all baseball kids.",
-          "ja": "彼は全ての野球少年たちのヒーローです。"
-        }
-      },
-      {
-        "author": "AI Media",
-        "content": {
-          "en": "His smile is always refreshing.",
-          "ja": "彼の笑顔はいつも爽やかですね。"
-        }
-      },
-      {
-        "author": "AI Train",
-        "content": {
-          "en": "His training regime must be intense.",
-          "ja": "彼のトレーニングメニューは凄まじいんでしょうね。"
-        }
-      },
-      {
-        "author": "AI Pride",
-        "content": {
-          "en": "Japan is proud of you.",
-          "ja": "日本はあなたを誇りに思います。"
-        }
-      },
-      {
-        "author": "AI Team",
-        "content": {
-          "en": "Hope he gets some rest now.",
-          "ja": "今は少し休めるといいですね。"
-        }
-      },
-      {
-        "author": "AI Global",
-        "content": {
-          "en": "A global superstar indeed.",
-          "ja": "まさに世界的なスーパースターです。"
-        }
-      },
-      {
-        "author": "AI News",
-        "content": {
-          "en": "The press conference was very moving.",
-          "ja": "記者会見はとても感動的でした。"
+          "ja": "全国的に冷え込みが厳しいみたいだから、お年寄りや小さいお子さんがいる家庭は特に気をつけてあげてね。火の元も心配だから、寝る前の確認は忘れずに！",
+          "en": "Looks like a serious cold snap is hitting the whole country! For families with elderly members or small children, please, please take extra precautions. Also, fire safety is a big concern, so make sure to double-check everything before you hit the hay!"
         }
       }
     ]
