@@ -1,435 +1,435 @@
 [
   {
-    "id": "20251213-01",
+    "id": "20251214-01",
     "title": {
-      "ja": "資生堂が過去最大赤字へ 大手企業に激動",
-      "en": "Shiseido Faces Record Loss Amid Major Corporate Upheaval"
+      "ja": "大谷翔平、米名門誌の年間MVP受賞逃す",
+      "en": "Shohei Ohtani Misses Out on Prestigious US Magazine's Player of the Year Award"
     },
     "content": [
       {
-        "ja": "資生堂は今期業績が過去最大の最終赤字に陥る見通しです。",
-        "en": "Shiseido is expected to report its largest-ever net loss for the current fiscal year."
+        "ja": "ドジャースの大谷翔平選手が、米タイム誌の「年間最優秀アスリート」選出を逃しました。",
+        "en": "Shohei Ohtani of the Dodgers missed out on being selected as TIME magazine's 'Athlete of the Year'."
       },
       {
-        "ja": "その額は520億円と、黒字予想から一転しての赤字です。",
-        "en": "The loss amounts to 52 billion yen, marking a complete reversal from its previous profit forecast."
+        "ja": "同誌は今年の受賞者として、ＷＮＢＡで活躍した女子バスケットボール選手を選出しています。",
+        "en": "The magazine instead selected a female basketball player who was active in the WNBA as this year's recipient."
       },
       {
-        "ja": "海外ブランド買収における巨額減損が大きく響きました。",
-        "en": "A massive impairment loss stemming from the acquisition of overseas brands had a substantial impact."
+        "ja": "日本国内では、大谷選手の２年連続受賞を期待する声が多く上がっていました。",
+        "en": "In Japan, many had expressed expectations for Ohtani to win the award for the second consecutive year."
       },
       {
-        "ja": "ニデックではグループ会社で不適切会計疑惑が浮上しています。",
-        "en": "At Nidec, allegations of improper accounting have surfaced within one of its group companies."
+        "ja": "今季の大谷選手は打者として驚異的な成績を残し、チームを牽引してきました。",
+        "en": "This season, Ohtani achieved astounding results as a batter and led his team."
       },
       {
-        "ja": "大手企業の経営を揺るがす動きが相次いでいます。",
-        "en": "Such developments, which are shaking the management of major corporations, are occurring one after another."
+        "ja": "受賞を逃したものの、米メディアにおける大谷選手の評価は依然として最高レベルです。",
+        "en": "Despite missing out on the award, Ohtani's evaluation in the U.S. media remains at the highest level."
       },
       {
-        "ja": "生成AIの波は企業競争をさらに激化させています。",
-        "en": "The wave of generative AI is further intensifying corporate competition."
+        "ja": "ネット上では「残念だが、ＷＮＢＡの盛り上がりも凄かった」と納得する声も見られます。",
+        "en": "Online, there were also voices of understanding, noting, 'It's a shame, but the WNBA's momentum was also incredible.'"
       },
       {
-        "ja": "経済界は変革の時代を迎え、生き残りが問われます。",
-        "en": "The business world is facing an era of transformation, where survival itself is being put to the test."
+        "ja": "大谷選手自身は個人の賞よりもチームの勝利を優先する姿勢を貫いています。",
+        "en": "Ohtani himself consistently prioritizes team victories over individual awards."
       },
       {
-        "ja": "日本経済全体に大きな影響を与える可能性があります。",
-        "en": "These trends could have significant implications for the entire Japanese economy."
+        "ja": "来季に向けた大谷選手のさらなる活躍と、新たなタイトル獲得に期待が高まります。",
+        "en": "Expectations are high for Ohtani's continued success and the acquisition of new titles in the upcoming season."
       }
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000",
-    "publishedAt": "2025/12/13",
+    "imageUrl": "/images/20251214-01.png",
+    "publishedAt": "2025/12/14",
     "comments": [
       {
-        "author": "驚愕の美魔女",
+        "author": "野球大好きおじさん",
         "content": {
-          "ja": "資生堂がまさかの過去最大赤字とは衝撃！海外ブランド買収が裏目に出た形ですね。憧れのブランドだけに心配だわ。",
-          "en": "Shiseido posted their biggest loss ever?! That's shocking! It seems like their overseas brand acquisitions really backfired. I'm so worried for a brand I admire so much."
-        }
-      },
-      {
-        "author": "辛口経済評論家",
-        "content": {
-          "ja": "資生堂だけでなくニデックもか。大手企業で不祥事や赤字が相次ぐのは由々しき事態だ。日本経済全体への影響が懸念されるね。",
-          "en": "Not just Shiseido, but Nidec too?! It's seriously concerning that major companies keep getting hit with scandals and red ink. I'm worried about the impact on the entire Japanese economy."
-        }
-      },
-      {
-        "author": "AI時代の探求者",
-        "content": {
-          "ja": "生成AIの波が企業競争を激化させていると。まさに変革の時代。従来のビジネスモデルでは生き残れないということか。次の手をどう打つか注目だ。",
-          "en": "The generative AI wave is really heating up business competition, huh? Seriously, what a transformative era! So, traditional business models are toast? I'm keeping a close eye on their next move."
-        }
-      },
-      {
-        "author": "美容好き主婦",
-        "content": {
-          "ja": "資生堂って日本の誇りだったのに、こんなに大変な状況だなんて…。社員の方々は不安だろうな。頑張って立ち直ってほしいです。",
-          "en": "Shiseido, they were Japan's pride, but I can't believe they're in such a tough spot now... Their employees must be so worried. I really hope they can bounce back."
-        }
-      },
-      {
-        "author": "株主目線の男",
-        "content": {
-          "ja": "海外ブランド買収の判断ミスがこれほど響くとは。経営陣は責任をどう取るのか。株主としては納得のいく説明を求めたいね。",
-          "en": "Seriously, who would've thought that screw-up with the overseas brand acquisition would hit us THIS hard? How are the management going to take responsibility for this? As a shareholder, I'm expecting a clear, convincing explanation, you know?"
-        }
-      },
-      {
-        "author": "変革を望む若手",
-        "content": {
-          "ja": "この赤字はピンチであると同時に、変革へのチャンスと捉えるべき。大胆な経営改革で新しい資生堂に生まれ変わってほしいな。",
-          "en": "This red ink isn't just a pinch; it's also an opportunity for transformation. I really hope Shiseido can be reborn as a brand new company through bold management reforms."
-        }
-      }
-    ]
-  },
-  {
-    "id": "20251213-02",
-    "title": {
-      "ja": "J1昇格へ最終決戦 千葉対徳島が激突",
-      "en": "Chiba vs Tokushima: Final Showdown for J1 Promotion"
-    },
-    "content": [
-      {
-        "ja": "明治安田J1昇格プレーオフ2025決勝が本日開催されました。",
-        "en": "The Meiji Yasuda J1 Promotion Play-off 2025 Final was held today."
-      },
-      {
-        "ja": "フクダ電子アリーナで千葉と徳島が激突しました。",
-        "en": "Chiba and Tokushima clashed at Fukuda Denshi Arena."
-      },
-      {
-        "ja": "両チームはJ1の舞台を目指し全力を尽くしました。",
-        "en": "Both teams gave their all, aiming for a spot in the J1 league."
-      },
-      {
-        "ja": "白熱した試合展開に多くのファンが注目しました。",
-        "en": "Many fans watched intently as the intense match unfolded."
-      },
-      {
-        "ja": "勝利チームが悲願のJ1昇格の切符を手にします。",
-        "en": "The winning team will secure their long-desired ticket to J1 promotion."
-      },
-      {
-        "ja": "年間を通して積み重ねた努力がこの一戦で報われます。",
-        "en": "The efforts accumulated throughout the year will be rewarded in this decisive match."
-      },
-      {
-        "ja": "サポーターの大歓声が会場を大きく包み込みました。",
-        "en": "The loud cheers of the supporters enveloped the venue."
-      },
-      {
-        "ja": "来シーズンのJ1リーグでの活躍が期待されます。",
-        "en": "Their performance in the J1 League next season is highly anticipated."
-      }
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000",
-    "publishedAt": "2025/12/13",
-    "comments": [
-      {
-        "author": "サッカー大好き人間",
-        "content": {
-          "ja": "両チームの選手たち、本当にお疲れ様でした！J1昇格を掴んだチーム、心からおめでとうございます。この白熱した試合を見届けられて幸せです。来シーズン、J1での活躍を今から楽しみにしています！",
-          "en": "Seriously, amazing effort from all the players on both teams! Huge congratulations from the bottom of my heart to the team that clinched promotion to J1! I feel so incredibly lucky to have witnessed such a thrilling, heated match. I'm already so excited to see you shine in J1 next season!"
-        }
-      },
-      {
-        "author": "にわかファン",
-        "content": {
-          "ja": "フクアリの熱気がテレビ越しにも伝わってきました！J1昇格プレーオフ決勝ってこんなにドラマがあるんですね。選手もサポーターも一体となって戦う姿に感動。Jリーグをこれからももっと応援したくなりました。",
-          "en": "The incredible energy at Fukuari really came through on TV! I had no idea the J1 promotion playoff final could be this dramatic. I was so moved by seeing the players and supporters fighting as one. It definitely makes me want to support the J.League even more from now on!"
-        }
-      },
-      {
-        "author": "悔しがる青い魂",
-        "content": {
-          "ja": "残念ながら負けてしまいましたが、選手たちは本当に最後まで全力を尽くしてくれた！この悔しさをバネに、来シーズンこそは必ず昇格を勝ち取ってほしい。一年間、感動をありがとう、そしてお疲れ様でした！",
-          "en": "Ugh, we lost today, but seriously, our players gave it everything they had right up to the final whistle! I really hope they use this frustration to bounce back and absolutely nail promotion next season! Thanks for all the amazing moments this year, and great job, everyone!"
-        }
-      },
-      {
-        "author": "Jリーグウォッチャー",
-        "content": {
-          "ja": "昇格チームの皆さん、おめでとうございます！J1での戦いはさらに厳しいですが、この勢いで旋風を巻き起こしてほしいですね。敗れたチームも、来季への糧として更なる成長を期待しています。",
-          "en": "Big congrats to all the promoted teams! J1's going to be even tougher, but I really hope you keep this momentum going and shake things up there! And for the teams that didn't make it, I hope you use this as fuel for next season and come back even stronger!"
-        }
-      },
-      {
-        "author": "スポーツ大好き主婦",
-        "content": {
-          "ja": "最終決戦、本当に胸が熱くなりました！一年間の努力と重圧の中、最後まで走り抜いた選手たちに心から拍手を送りたいです。勝っても負けても、皆さんの頑張りに感動しました。お疲れ様でした！",
-          "en": "The final match was just phenomenal! My heart was so full. I want to give a massive, heartfelt round of applause to all the players who pushed through until the very end, after a year of incredible effort and immense pressure. Win or lose, I was truly moved by everyone's dedication. You guys were amazing!"
-        }
-      },
-      {
-        "author": "J1経験者",
-        "content": {
-          "ja": "J1昇格おめでとう！でも喜んでばかりはいられないぞ。J1のレベルは想像以上に高い。今のうちにしっかり準備して、来シーズンは一発でJ2逆戻りなんてことにならないように頑張ってくれ！",
-          "en": "Huge congrats on the J1 promotion! But hey, don't get too carried away just yet. J1 is on a whole different level, way tougher than you can imagine. You guys need to prepare super hard right now, so you don't end up getting relegated straight back to J2 next season!"
-        }
-      }
-    ]
-  },
-  {
-    "id": "20251213-03",
-    "title": {
-      "ja": "空手日本一へ熱戦 第53回全日本選手権",
-      "en": "Karate Elite Vie for National Title at 53rd All-Japan Championship"
-    },
-    "content": [
-      {
-        "ja": "第53回全日本空手道選手権大会が本日開催されました。",
-        "en": "The 53rd All Japan Karate-do Championship took place today."
-      },
-      {
-        "ja": "東京武道館では団体組手の決勝戦が行われました。",
-        "en": "The team kumite finals were held at Tokyo Budokan."
-      },
-      {
-        "ja": "男子団体組手は千葉県が優勝を果たしました。",
-        "en": "Chiba Prefecture won the men's team kumite title."
-      },
-      {
-        "ja": "女子団体組手では香川県が栄冠を勝ち取りました。",
-        "en": "Kagawa Prefecture claimed victory in the women's team kumite."
-      },
-      {
-        "ja": "選手たちは日頃の鍛錬の成果を遺憾なく発揮しました。",
-        "en": "The athletes fully demonstrated the results of their daily training."
-      },
-      {
-        "ja": "明日は日本武道館で個人戦の決勝が行われます。",
-        "en": "Tomorrow, the individual competition finals will be held at Nippon Budokan."
-      },
-      {
-        "ja": "空手界の日本一を決める熱い戦いが続きます。",
-        "en": "The intense battles to determine Japan's best in the karate world continue."
-      },
-      {
-        "ja": "多くのファンが会場や配信で声援を送っています。",
-        "en": "Many fans are cheering them on both at the venue and through live streaming."
-      }
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000",
-    "publishedAt": "2025/12/13",
-    "comments": [
-      {
-        "author": "空手大好き！",
-        "content": {
-          "ja": "千葉県、香川県、優勝おめでとうございます！日頃の鍛錬の成果が実を結んだんですね。明日の個人戦もどんなドラマが生まれるか、本当に楽しみです。選手のみなさん、頑張ってください！",
-          "en": "Congrats, Chiba Prefecture and Kagawa Prefecture, on your wins! All that daily training clearly paid off. So excited to see what kind of drama unfolds in tomorrow's individual matches. Good luck to all the athletes!"
-        }
-      },
-      {
-        "author": "武道観戦人",
-        "content": {
-          "ja": "今年の団体戦も本当に熱かった！特に女子の香川県は予想外の強さで、見ていて鳥肌が立ちました。選手の気迫が画面からも伝わってきて、感動しましたね。空手ってこんなに奥深いんだと改めて実感。",
-          "en": "This year's team tournament was absolutely incredible again! Especially the women's team from Kagawa Prefecture – their unexpected strength was just mind-blowing. I got chills watching them! You could literally feel the athletes' passion and intensity radiating through the screen. It was so moving. It really made me appreciate again just how much depth karate truly has."
-        }
-      },
-      {
-        "author": "明日行く人",
-        "content": {
-          "ja": "明日は日本武道館で個人戦決勝ですか！これは見逃せないですね。チケットまだあるかな？配信もあるとのことなので、どちらかで絶対に応援します。日本一の称号は誰の手に渡るのか、今からワクワクします。",
-          "en": "The individual finals at Nippon Budokan are tomorrow?! No way I'm missing this one! I wonder if there are still tickets available? I also heard there'll be a live stream, so I'll definitely be cheering them on either way! Already so hyped to see who's gonna take home the title of Japan's best!"
-        }
-      },
-      {
-        "author": "詳細希望",
-        "content": {
-          "ja": "団体戦の結果は分かったけど、もう少し個別の選手や試合展開について詳しく書いて欲しかったな。特に決勝戦のハイライトとか。明日の個人戦の注目選手情報もあれば嬉しいです。",
-          "en": "Okay, got the team results! But honestly, I was really hoping for more details on the individual players and how the games played out. Like, especially the highlights of the final match! Also, any info on players to watch for in tomorrow's individual matches would be awesome!"
-        }
-      },
-      {
-        "author": "元空手少年",
-        "content": {
-          "ja": "自分も昔空手やってたから、この舞台に立つ選手たちの緊張感と努力が手に取るようにわかる。千葉県も香川県も、本当に素晴らしい演武と組手でした。怪我なく、最高のパフォーマンスを見せてほしいです。",
-          "en": "I totally get the tension and effort these athletes are feeling on stage, having done karate myself back in the day! Both Chiba and Kagawa Prefectures, your kata and kumite were truly amazing. Hope everyone stays safe and delivers their absolute best performance!"
-        }
-      },
-      {
-        "author": "一般観戦者",
-        "content": {
-          "ja": "空手って普段あまり見ないけど、記事を読むとすごく盛り上がってるんだなと感じます。東京武道館と日本武道館って、名前は似てるけど場所は違うんですよね？スポーツの秋、他の競技も盛り上がってるのかな。",
-          "en": "I don't usually follow karate much, but from the articles I've read, it really seems like it's getting a lot of buzz! Tokyo Budokan and Nippon Budokan... their names are so similar, but they're in different locations, right? It's autumn, the season for sports, so I wonder if other sports are also getting hyped up."
-        }
-      }
-    ]
-  },
-  {
-    "id": "20251213-04",
-    "title": {
-      "ja": "大学バスケ頂点へ インカレ女子準決勝",
-      "en": "National Collegiate Women's Basketball Semifinals: Road to the Championship"
-    },
-    "content": [
-      {
-        "ja": "第77回全日本大学バスケットボール選手権が開幕しました。",
-        "en": "The 77th All Japan University Basketball Championship has commenced."
-      },
-      {
-        "ja": "本日より大田区総合体育館でファイナル4が始まります。",
-        "en": "The Final Four will begin today at the Ota City General Gymnasium."
-      },
-      {
-        "ja": "女子準決勝では強豪4チームが激突しました。",
-        "en": "In the women's semifinals, four formidable teams clashed."
-      },
-      {
-        "ja": "東京医療保健大と早稲田大が決勝を懸けて戦いました。",
-        "en": "Tokyo Healthcare University and Waseda University battled for a spot in the final."
-      },
-      {
-        "ja": "もう一試合は白鷗大が筑波大と対戦しました。",
-        "en": "In the other match, Hakuoh University faced off against the University of Tsukuba."
-      },
-      {
-        "ja": "男子準決勝も注目のカードが組まれています。",
-        "en": "The men's semifinals also feature highly anticipated matchups."
-      },
-      {
-        "ja": "大学バスケ日本一の座をかけた熱い戦いが続きます。",
-        "en": "The fierce competition for the title of Japan's best university basketball team continues."
-      },
-      {
-        "ja": "若き才能たちが躍動し観客を魅了しています。",
-        "en": "Young talents are showcasing their skills and captivating the audience."
-      }
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000",
-    "publishedAt": "2025/12/13",
-    "comments": [
-      {
-        "author": "バスケファン",
-        "content": {
-          "ja": "インカレ女子準決勝、熱い戦いが始まったね！若き才能たちが躍動する姿は本当に感動的。どのチームが決勝へ進むのか、ワクワクが止まらない！大学バスケの日本一決定戦、目が離せないよ。",
-          "en": "The Women's College Nationals semifinals have officially kicked off, and what an intense battle it's shaping up to be! It's truly inspiring to see these young talents shine and give their absolute all. I'm literally on the edge of my seat, wondering who's going to make it to the finals! You won't want to miss a second of this fight for Japan's college basketball championship."
-        }
-      },
-      {
-        "author": "早稲田応援団",
-        "content": {
-          "ja": "早稲田と東京医療保健大の激戦、本当に手に汗握った！選手たちの粘り強いプレーに感動しました。決勝進出を信じて、最後まで全力で応援します！がんばれ、早稲田！",
-          "en": "What an intense battle between Waseda and Tokyo Healthcare University! I was seriously on the edge of my seat the whole time! Their gritty, never-give-up play really moved me. I truly believe they'll make it to the finals, and I'll be cheering them on with all my heart until the very end! Go, Waseda!"
+          "ja": "やっぱり残念だなぁ。2年連続受賞を期待してただけに、少しがっかり。でも、大谷選手ならきっと来年また素晴らしい活躍を見せてくれるはず！",
+          "en": "Ah, still a bummer. I was really hoping for a back-to-back win, so I'm a little let down. But I just know Ohtani-san will totally crush it again next year!"
         }
       },
       {
         "author": "スポーツウォッチャー",
         "content": {
-          "ja": "白鷗大vs筑波大も熱かった！どの試合もレベルが高くて見応えがあるね。大学バスケから将来の日本代表が生まれると思うと、ますます応援したくなる。若者のエネルギーは最高だ！",
-          "en": "Hakko U vs. Tsukuba U was also 🔥! Seriously, every game was so high-level and exciting to watch. Thinking about future Japan national team players coming out of university hoops just makes me want to cheer them on even more! That youth energy is just incredible!"
+          "ja": "確かに大谷選手もすごかったけど、今年のWNBAの盛り上がりも桁外れだったもんな。これはこれで納得の選出だと思う。おめでとうございます！",
+          "en": "Sure, Ohtani was incredible, but the WNBA hype this year was absolutely wild! Honestly, I think this selection makes total sense. Congrats!"
         }
       },
       {
-        "author": "ベテラン観戦者",
+        "author": "未来は明るい",
         "content": {
-          "ja": "強豪4チームが順当に勝ち上がってきた印象だね。毎年この時期のインカレは楽しみ。ただ、もう少し番狂わせがあっても盛り上がるかも。若手の成長に期待しています。",
-          "en": "It really feels like the top 4 powerhouses advanced just as expected. I always look forward to the university tournament around this time of year. Honestly though, a few more upsets would really make it even more exciting! Super excited to see the young players develop."
+          "ja": "個人の賞よりチームの勝利を優先する姿勢、さすが大谷選手！受賞を逃しても評価は最高レベルだし、来季のさらなる活躍に期待しかないね！",
+          "en": "Always putting team wins above individual awards – that's so Ohtani! Even if he didn't get the award, his standing is still absolutely top-tier, and I'm only expecting even more amazing things from him next season!"
         }
       },
       {
-        "author": "初めてのインカレ",
+        "author": "現実派",
         "content": {
-          "ja": "大学バスケを初めて見たけど、こんなにハイスピードで迫力があるとは驚き！テレビで見てたけど、会場の熱気が伝わってくるようだった。これは来年こそ生で観戦してみたいな。",
-          "en": "Just watched college basketball for the first time, and wow, I'm totally blown away by how fast-paced and intense it is! Even on TV, the energy from the venue really came through. I definitely gotta see it live next year!"
+          "ja": "日本での期待値が高すぎたのかもしれないね。向こうは多種多様なスポーツがあるし、今年は女子バスケが盛り上がったってこと。仕方ない結果かと。",
+          "en": "I guess our expectations were probably just way too high here in Japan. Over there, they've got such a huge variety of sports, and this year, women's basketball really blew up. So, I suppose it's kind of an unavoidable outcome."
         }
       },
       {
-        "author": "バスケット好き",
+        "author": "大谷リスペクト",
         "content": {
-          "ja": "女子準決勝も盛り上がったけど、男子準決勝もどんなドラマが待っているか楽しみだね。大学バスケの日本一を決める戦い、若き才能たちの全力プレーに期待が高まる！",
-          "en": "The women's semifinals were so exciting, but now I'm really looking forward to what kind of drama the men's semifinals will bring! This is the game to decide the national champion of college basketball in Japan, and my expectations are soaring to see these young talents play their hearts out!"
+          "ja": "個人の賞よりもチームの勝利を優先する姿勢、本当に尊敬する。こういう選手だからこそ、みんなが応援したくなるんだよね。来シーズンも頑張って！",
+          "en": "Seriously, I have so much respect for how you prioritize the team's win over any personal awards. That's exactly why everyone wants to root for a player like you. Good luck next season!"
+        }
+      },
+      {
+        "author": "世界のスポーツファン",
+        "content": {
+          "ja": "え、大谷選手が逃したの！？びっくりしたけど、アメリカにはいろんなすごいアスリートがいるもんね。WNBAの選手もきっと素晴らしい活躍だったんだろうな。",
+          "en": "Whoa, Ohtani missed out?! I'm surprised, but then again, the US has so many incredible athletes. The WNBA player must've had an amazing season, though."
         }
       }
     ]
   },
   {
-    "id": "20251213-05",
+    "id": "20251214-02",
     "title": {
-      "ja": "東京都心今季初の8℃台 真冬並みの寒さ",
-      "en": "Tokyo Shivers: Season's First 8°C Brings Mid-Winter Cold"
+      "ja": "日曜劇場『ザ・ロイヤルファミリー』涙の完結",
+      "en": "The Royal Family Bids an Emotional Farewell in Series Finale"
     },
     "content": [
       {
-        "ja": "本日、東京都心の最高気温が今季初の8℃台でした。",
-        "en": "Today, the high temperature in central Tokyo was in the 8-degree Celsius range for the first time this season."
+        "ja": "ＴＢＳ系日曜劇場『ザ・ロイヤルファミリー』の撮影が終了し、キャストがクランクアップしました。",
+        "en": "Filming for the TBS Sunday Theater drama 'The Royal Family' has concluded, and the cast has wrapped up production."
       },
       {
-        "ja": "日中の気温が上がらず真冬並みの寒さとなりました。",
-        "en": "Daytime temperatures did not rise, bringing mid-winter-like cold."
+        "ja": "主演の妻夫木聡は、最後の挨拶で感極まり、涙ながらに感謝の言葉を述べました。",
+        "en": "Lead actor Satoshi Tsumabuki was overcome with emotion during his final address, tearfully expressing his gratitude."
       },
       {
-        "ja": "全国的に冷え込みが強く、冬日地点は今年最多です。",
-        "en": "Across the country, the cold snap was severe, and the number of locations experiencing \"fuyubi\" (all-day freezing temperatures) reached a record high for the year."
+        "ja": "共演のＳｎｏｗ Ｍａｎ目黒蓮も、長期間の撮影を終えた達成感を語っています。",
+        "en": "Co-star Ren Meguro of Snow Man also spoke of his sense of accomplishment after completing the long-term filming."
       },
       {
-        "ja": "北海道陸別町ではマイナス24.7℃を記録しました。",
-        "en": "In Rikubetsu Town, Hokkaido, a temperature of minus 24.7°C was recorded."
+        "ja": "本作は競馬界を舞台に、夢を追う家族の絆を描いた壮大なヒューマンドラマです。",
+        "en": "Set in the world of horse racing, this drama is a magnificent human drama depicting the bonds of a family pursuing their dreams."
       },
       {
-        "ja": "関東では空気が乾燥した状態が続いています。",
-        "en": "In the Kanto region, dry air conditions continue."
+        "ja": "最終回を目前に控え、ＳＮＳでは「ロス確定」「結末が気になる」との声が溢れています。",
+        "en": "With the final episode approaching, social media is abuzz with comments like 'I'm definitely going to miss it' and 'I can't wait to see how it ends.'"
       },
       {
-        "ja": "今夜から雨や雪が降る地域もあるでしょう。",
-        "en": "Starting tonight, some areas may experience rain or snow."
+        "ja": "撮影現場は終始温かい雰囲気に包まれ、キャスト同士の絆も深まったようです。",
+        "en": "The filming set was enveloped in a warm atmosphere throughout, and the bonds between the cast members seemed to deepen."
       },
       {
-        "ja": "路面凍結に注意し、冬装備を万全にしてください。",
-        "en": "Be cautious of icy roads and ensure you have full winter preparations."
+        "ja": "妻夫木は「一日でも多くこの現場にいたかった」と名残惜しさを口にしました。",
+        "en": "Tsumabuki expressed his reluctance to leave, saying, 'I wished I could have stayed on this set for even one more day.'"
       },
       {
-        "ja": "体調管理と火の取り扱いには十分な注意が必要です。",
-        "en": "Please take ample care of your health and when handling fire."
+        "ja": "１２月１４日放送の最終回では、物語がどのような結末を迎えるのか注目が集まります。",
+        "en": "Attention will be focused on how the story will conclude in the final episode airing on December 14th."
       }
     ],
-    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1000",
-    "publishedAt": "2025/12/13",
+    "imageUrl": "/images/20251214-02.png",
+    "publishedAt": "2025/12/14",
     "comments": [
       {
-        "author": "寒がりん",
+        "author": "ドラマファンM",
         "content": {
-          "ja": "東京で8℃台はさすがに寒い！北海道のマイナス24℃台はもはや異次元すぎて想像もつかない。体調崩さないように気をつけないとね。",
-          "en": "8°C in Tokyo? That's seriously cold! Minus 24°C in Hokkaido, though, is just insane; I can't even picture it. Gotta be careful not to get sick!"
+          "ja": "妻夫木さんの涙を見て、どれだけこの作品に情熱を注いだかが伝わってきました。最終回が寂しいけど、最高の感動を期待しています！もうロス確定です。",
+          "en": "Tsumabuki-san's tears really showed me how much passion he poured into this project. I'm sad the final episode is here, but I'm expecting it to be absolutely amazing and deeply moving! I know I'm gonna miss it so much already."
         }
       },
       {
-        "author": "都内通勤者",
+        "author": "めめ推しR",
         "content": {
-          "ja": "確かに今日は一日中震えてたよ。空気もカラカラで喉がやられそう。路面凍結も怖いし、明日の朝は早めに出ようかな。皆さんも暖かくして！",
-          "en": "Yeah, I was literally shivering all day today. The air is so dry, my throat's really taking a hit. And I'm worried about icy roads, so I'll probably leave a bit early tomorrow morning. Everyone, stay warm out there!"
+          "ja": "めめ、長期間の撮影本当にお疲れ様でした！達成感を語る姿に感動。このドラマで彼の新たな魅力がたくさん見られて、感謝しかないです。最終回、目に焼き付けます！",
+          "en": "Meme, you must be so incredibly tired from that super long shoot! Thank you so much for all your hard work! I was so moved to see you talk about your sense of accomplishment. I'm just so grateful for all the wonderful new sides of you we got to see in this drama. I'm going to savor every single moment of the final episode!"
         }
       },
       {
-        "author": "冬嫌い",
+        "author": "ドラマ評論家K",
         "content": {
-          "ja": "まだ11月なのに真冬並みって早すぎない？毎年冬が来るのが早くなってる気がする。ストーブもう出しちゃったよ。お願いだから春、早く来て〜！",
-          "en": "It's only November and it's already full-on winter? This is way too early! It feels like winter just shows up earlier and earlier every single year. I've already had to get my heater out! Ugh, Spring, please hurry up and get here!"
+          "ja": "毎回のように主演が涙するクランクアップ。感動を煽るのは分かるけど、最終回が本当に期待を超える結末になるのかは疑問。壮大なヒューマンドラマ、果たしてどう締めるか。",
+          "en": "Another wrap-up with the lead actor in tears, per usual. I get they're trying to pull at our heartstrings, but I kinda doubt if the finale will actually live up to the hype. It's such a huge human drama, so how exactly are they gonna end it?"
         }
       },
       {
-        "author": "安全第一マン",
+        "author": "結末気になるO",
         "content": {
-          "ja": "今夜から雨や雪ってことは、明日の朝は凍結路面が怖いですね。特に橋の上とか日陰は要注意。車の運転や徒歩での移動は、いつも以上に慎重に。",
-          "en": "Heads up everyone! With rain or snow starting tonight, tomorrow morning's going to be a real concern with icy roads. Especially watch out for bridges and shaded areas. Whether you're driving or walking, please be extra careful!"
+          "ja": "SNSで「ロス確定」の声がすごいから、本当に良いドラマだったんだなと改めて実感！最終回が待ちきれません。家族の絆がどんな形で描かれるのか、想像するだけでワクワクします。",
+          "en": "All the \"show withdrawal\" comments on social media just confirm how truly amazing that drama was! I literally cannot wait for the final episode. I'm so hyped just thinking about how they'll portray the family ties."
         }
       },
       {
-        "author": "冬の訪れ",
+        "author": "現場ウォッチャーS",
         "content": {
-          "ja": "いよいよ冬本番って感じですね！冷え込むと空気が澄んで星が綺麗に見えたりするんですよね。温かいココアでも飲んで、冬の夜を楽しもうかな。",
-          "en": "Winter is really here now, isn't it! You know, when it gets this cold, the air gets so clear and the stars look absolutely beautiful. I think I'll grab some warm cocoa and just enjoy this winter night."
+          "ja": "撮影現場が終始温かい雰囲気だったという記事を読んで、キャストの皆さんの絆の深さに感動しました。その一体感がドラマにも表れていたんでしょうね。素敵なチームワークでした！",
+          "en": "I read an article about the super warm vibe on set the whole time, and I was really moved by how strong the cast's bond was. You could totally feel that togetherness coming through in the drama, too! Such wonderful teamwork!"
         }
       },
       {
-        "author": "おかん",
+        "author": "ロス確定Y",
         "content": {
-          "ja": "全国的に冷え込みが厳しいみたいだから、お年寄りや小さいお子さんがいる家庭は特に気をつけてあげてね。火の元も心配だから、寝る前の確認は忘れずに！",
-          "en": "Looks like a serious cold snap is hitting the whole country! For families with elderly members or small children, please, please take extra precautions. Also, fire safety is a big concern, so make sure to double-check everything before you hit the hay!"
+          "ja": "ああ、ついに終わってしまうのか…！妻夫木さんの「一日でも多く現場にいたかった」という言葉に、こちらも胸が締め付けられます。もうすでにザ・ロイヤルファミリーロスです。",
+          "en": "Oh no, it's finally ending...! Mr. Tsumabuki's words, \"I wanted to spend even one more day on set,\" really hit me hard too. I'm already having The Royal Family withdrawal."
+        }
+      }
+    ]
+  },
+  {
+    "id": "20251214-03",
+    "title": {
+      "ja": "伊東市長選、過去最多９人が立候補の大乱戦",
+      "en": "Ito Mayoral Race: Record Nine Candidates in Crowded Field"
+    },
+    "content": [
+      {
+        "ja": "静岡県伊東市長選挙が１２月１４日に投開票日を迎え、市民の審判が下されます。",
+        "en": "The Ito City mayoral election in Shizuoka Prefecture will be held on December 14th, and the citizens' judgment will be rendered."
+      },
+      {
+        "ja": "今回の選挙には過去最多となる９人の候補者が立候補し、極めて異例の混戦となりました。",
+        "en": "A record nine candidates have run in this election, making it an extremely unusual and crowded race."
+      },
+      {
+        "ja": "現職と新人８人による争いは、観光振興や市政の刷新が主な争点となっています。",
+        "en": "The main issues in the contest between the incumbent and eight new candidates are tourism promotion and municipal government reform."
+      },
+      {
+        "ja": "投票は市内各所の投票所で行われ、即日開票されて深夜には大勢が判明する見通しです。",
+        "en": "Voting will be conducted at polling stations throughout the city, with ballots counted on the same day, and a general trend is expected to become clear by late night."
+      },
+      {
+        "ja": "候補者乱立により票が割れることが予想され、再選挙の可能性も指摘されています。",
+        "en": "Due to the large number of candidates, votes are expected to be split, and the possibility of a run-off election has also been suggested."
+      },
+      {
+        "ja": "「選挙ドットコム」などは動画サイトで開票速報のライブ配信を行う予定です。",
+        "en": "Senkyo.com and other outlets plan to live-stream election result updates on video streaming sites."
+      },
+      {
+        "ja": "市民の間では、多すぎる選択肢に戸惑いの声も聞かれますが、関心は高まっています。",
+        "en": "Among citizens, while there are voices of confusion over the overwhelming number of choices, interest remains high."
+      },
+      {
+        "ja": "今後の伊東市の舵取り役を誰が担うのか、全国的にも珍しい激戦の行方が注目されます。",
+        "en": "The outcome of this fierce and nationally rare election, which will determine who steers the future of Ito City, is drawing attention nationwide."
+      }
+    ],
+    "imageUrl": "/images/20251214-03.png",
+    "publishedAt": "2025/12/14",
+    "comments": [
+      {
+        "author": "迷える市民",
+        "content": {
+          "ja": "9人もの候補者って、さすがに多すぎますね！誰に投票すればいいのか本当に迷います。でも、それだけ市政への関心が高いのは良いことなのかな。",
+          "en": "Nine candidates? Wow, that's definitely too many! I'm really torn on who to vote for. But I guess it's a good thing that there's so much interest in city politics."
+        }
+      },
+      {
+        "author": "伊東の未来応援隊",
+        "content": {
+          "ja": "これだけ多くの候補者がいると、様々な意見が議論されて、伊東市の未来がより良くなるチャンスだと信じています。活発な選挙戦に期待！",
+          "en": "With so many candidates, I truly believe we'll see a lot of diverse opinions debated, and that's a fantastic chance for Ito City's future to get much better. Super excited for a lively election!"
+        }
+      },
+      {
+        "author": "現実主義者",
+        "content": {
+          "ja": "9人立候補って、票が割れすぎて再選挙になったらどうするんでしょう？費用も手間もかかるし、もっと真剣に考えて立候補してほしいです。",
+          "en": "Nine candidates running? What are we going to do if the votes get so split that it leads to a re-election? That's a huge waste of money and effort. I really wish they'd think more seriously before deciding to run!"
+        }
+      },
+      {
+        "author": "選挙ウォッチャー",
+        "content": {
+          "ja": "全国的に珍しい大乱戦、これは見逃せないですね！開票速報のライブ配信、絶対チェックします。伊東の夜は熱くなりそうだ！",
+          "en": "A nationwide slugfest like this is super rare, you absolutely can't miss it! I'm definitely tuning in to the live stream for the election results. Ito's night is gonna be intense!"
+        }
+      },
+      {
+        "author": "静岡県民",
+        "content": {
+          "ja": "候補者が多すぎると、結局誰が当選しても『本当に市民の代表なのか？』って疑問が残るかもしれませんね。しっかり政策で選んでほしい。",
+          "en": "With so many candidates, no matter who gets elected, I feel like people might still wonder, \"Do they truly represent us citizens?\" I really wish people would choose based on their policies."
+        }
+      },
+      {
+        "author": "観光大好きっ子",
+        "content": {
+          "ja": "観光振興が争点なのは嬉しい！これだけ注目される選挙だからこそ、伊東の魅力をさらに引き出すリーダーを選んでほしいな。",
+          "en": "I'm so glad tourism promotion is a main topic! Especially with how much attention this election is getting, I really hope we choose a leader who can truly bring out even more of Ito's charm."
+        }
+      }
+    ]
+  },
+  {
+    "id": "20251214-04",
+    "title": {
+      "ja": "大学バスケ「インカレ」男女決勝、本日開催",
+      "en": "Intercollegiate Basketball: Men's & Women's Finals Today"
+    },
+    "content": [
+      {
+        "ja": "大学バスケットボールの日本一を決める「インカレ」の決勝戦が本日行われます。",
+        "en": "The championship game of the 'Intercollegiate Championship' (Incare), which crowns the top university basketball team in Japan, is taking place today."
+      },
+      {
+        "ja": "会場となる東京都の大田区総合体育館には、早朝から多くのファンが詰めかけています。",
+        "en": "Many fans have been flocking to the Ota City General Gymnasium in Tokyo, the venue, since early morning."
+      },
+      {
+        "ja": "男子は準決勝を勝ち抜いた強豪校同士が激突し、学生最強の座を争います。",
+        "en": "In the men's division, powerhouse schools that advanced from the semifinals will clash, vying for the title of the strongest student team."
+      },
+      {
+        "ja": "女子の決勝カードも実力伯仲の好カードとなり、熱戦が期待されています。",
+        "en": "The women's final also features evenly matched teams, promising an exciting and intense battle."
+      },
+      {
+        "ja": "今大会は地方勢の躍進も目立ち、大学バスケ界のレベル向上を印象付けました。",
+        "en": "This tournament also saw a remarkable surge from regional teams, highlighting the improving level of university basketball."
+      },
+      {
+        "ja": "４年生にとっては大学生活最後の公式戦となり、特別な思いでコートに立ちます。",
+        "en": "For fourth-year students, this marks their final official game of their university careers, and they will step onto the court with special feelings."
+      },
+      {
+        "ja": "試合の模様はネット配信も行われ、全国のバスケファンが固唾をのんで見守ります。",
+        "en": "The games will also be live-streamed online, with basketball fans across the nation watching with bated breath."
+      },
+      {
+        "ja": "若きアスリートたちが繰り広げる青春のドラマと、頂点に立つチームの決定に注目です。",
+        "en": "All eyes are on the youthful drama unfolding among these young athletes and the crowning of the team that will reach the pinnacle."
+      }
+    ],
+    "imageUrl": "/images/20251214-04.png",
+    "publishedAt": "2025/12/14",
+    "comments": [
+      {
+        "author": "バスケ狂",
+        "content": {
+          "ja": "インカレ決勝、ついに今日か！男子も女子も実力拮抗で、どっちが勝つか本当に楽しみ。ネット配信で全国から見守れるのも嬉しいね。若きアスリートたちの熱戦、見逃せない！",
+          "en": "The National Collegiate Finals are finally today! Both the men's and women's games are so incredibly close, I seriously can't wait to see who wins. And it's awesome that we can watch it live online from anywhere in the country! You definitely don't want to miss the passionate competition from these young athletes!"
+        }
+      },
+      {
+        "author": "青春ウォッチャー",
+        "content": {
+          "ja": "4年生にとっては大学生活最後の公式戦、きっと特別な思いでコートに立つんだろうな。その熱いプレーに感動をもらう準備はできてます！青春のドラマ、しっかり見届けたい。",
+          "en": "For the seniors, it's their last official game in college, so I bet they'll be stepping onto that court with some really special emotions. I'm totally ready to be moved by their passionate plays! I really want to witness this drama of their youth unfold."
+        }
+      },
+      {
+        "author": "地方バスケファン",
+        "content": {
+          "ja": "今大会は地方勢の躍進も目立ったって聞いて、大学バスケ界全体のレベルアップを感じるね。決勝も盛り上がりそうだし、今後の日本バスケ界がますます楽しみになる！",
+          "en": "From what I hear, regional teams really shone this tournament, and you can totally feel the whole university basketball scene leveling up! The final's gonna be a blast, and it just makes me even more hyped for the future of Japanese basketball!"
+        }
+      },
+      {
+        "author": "早起き観戦組",
+        "content": {
+          "ja": "大田区総合体育館、早朝からファンが詰めかけているのか！私も配信組だけど、会場の熱気が伝わってくるみたい。最高の雰囲気の中で最高の試合が見られることを願っています。",
+          "en": "Ota City General Gymnasium is already packed with fans this early in the morning?! I'm just watching the stream myself, but I can totally feel the hype from the venue. Hoping for an amazing match in that incredible atmosphere!"
+        }
+      },
+      {
+        "author": "元バスケ部",
+        "content": {
+          "ja": "大学バスケがこんなに注目されるようになって本当に嬉しいね。願わくば、もっと多くの試合が地上波で放送されるようになって、さらにファンが増えてほしいな。",
+          "en": "It's so great to see college basketball getting this much attention! Hopefully, more games will be broadcast on national TV so we can get even more fans."
+        }
+      },
+      {
+        "author": "驚きウォッチャー",
+        "content": {
+          "ja": "学生最強の座を争うって、どれだけ熾烈な戦いになるんだろう。準決勝を勝ち抜いた強豪校同士の激突とか、想像するだけで鳥肌が立つね。若きアスリートの力に期待！",
+          "en": "Battling for the title of the strongest student? Man, I can only imagine how incredibly fierce that's going to be. A clash between powerhouse schools that fought their way out of the semifinals... just thinking about it gives me goosebumps! So excited to see the raw power of these young athletes!"
+        }
+      }
+    ]
+  },
+  {
+    "id": "20251214-05",
+    "title": {
+      "ja": "ホラーコメディ『令和のダラさん』アニメ化",
+      "en": "Reiwa no Dara-san\" Horror-Comedy Gets Anime Adaptation"
+    },
+    "content": [
+      {
+        "ja": "人気ホラーコメディ漫画『令和のダラさん』のテレビアニメ化が決定しました。",
+        "en": "A TV anime adaptation of the popular horror-comedy manga 'Reiwa no Dara-san' has been announced."
+      },
+      {
+        "ja": "放送時期は２０２６年を予定しており、アニメーション制作は旭プロダクションが担当します。",
+        "en": "It is scheduled to air in 2026, with animation production handled by Asahi Production."
+      },
+      {
+        "ja": "原作は、ある姉弟と「ダラさん」と呼ばれる不気味かつ愉快な存在の日常を描いています。",
+        "en": "The original manga depicts the daily lives of a brother and sister and an eerie yet amusing being known as 'Dara-san'."
+      },
+      {
+        "ja": "ネット上で話題となった本作のアニメ化に、ファンからは歓喜の声が上がっています。",
+        "en": "Fans are expressing joy over the anime adaptation of this title, which has garnered much attention online."
+      },
+      {
+        "ja": "同時に公開されたティザービジュアルでは、独特の世界観が見事に表現されています。",
+        "en": "The simultaneously released teaser visual beautifully captures its unique worldview."
+      },
+      {
+        "ja": "声優キャストなどの詳細は後日発表される予定で、誰が演じるのか予想合戦が始まっています。",
+        "en": "Details such as the voice cast are expected to be announced at a later date, and speculation has already begun about who will be cast."
+      },
+      {
+        "ja": "ホラー要素とコメディ要素の絶妙なバランスが、アニメでどう描かれるか期待されます。",
+        "en": "Fans are eagerly anticipating how the exquisite balance between its horror and comedy elements will be depicted in the anime."
+      },
+      {
+        "ja": "２０２６年の放送に向け、今後の続報やプロモーションビデオの公開が待ちきれません。",
+        "en": "Leading up to the 2026 broadcast, fans can't wait for further updates and the release of a promotional video."
+      }
+    ],
+    "imageUrl": "/images/20251214-05.png",
+    "publishedAt": "2025/12/14",
+    "comments": [
+      {
+        "author": "ダラさんファン2号",
+        "content": {
+          "ja": "『令和のダラさん』アニメ化キター！ネットでずっと話題だったから本当に嬉しい！2026年まで待ちきれないけど、あの独特の世界観がどう動くのか今から楽しみすぎる。絶対見ます！",
+          "en": "OMG, 'Reiwa no Dara-san' is getting an anime adaptation! YESSS! It's been talked about online non-stop, so I'm beyond thrilled! 2026 feels like forever away, but I'm already SO excited to see how that unique world is going to come to life. I'm definitely watching this!"
+        }
+      },
+      {
+        "author": "アニメ大好きっ子",
+        "content": {
+          "ja": "アニメ化おめでとうございます！ホラーコメディってジャンルが新鮮で、どんな笑いと恐怖が待っているのかワクワクする。特に「ダラさん」の声優さんが誰になるのかが超気になる！早く情報公開されないかな～。",
+          "en": "Huge congrats on the anime adaptation! The horror-comedy genre is such a fresh take, and I'm so excited to see what kind of laughs and scares it's going to bring! What I'm *really* dying to know is who's cast as 'Dara-san'! Can't wait for more info to drop!"
+        }
+      },
+      {
+        "author": "びっくりポン！",
+        "content": {
+          "ja": "えっ、マジで！？あの『令和のダラさん』がアニメ化するなんて予想外すぎて驚いてる。ティザービジュアルもすごい雰囲気出てたから、これは期待大！ホラー苦手だけどコメディ要素もあるなら見てみようかな。",
+          "en": "No way, for real!? *That* 'Reiwa no Dara-san' is getting an anime?! That's so completely out of the blue, I'm genuinely shocked! The teaser visual had such an amazing vibe too, so my expectations are sky-high for this! I'm usually not great with horror, but if it has some comedy elements, I might just have to check it out."
+        }
+      },
+      {
+        "author": "原作原理主義者",
+        "content": {
+          "ja": "2026年ってまだ先だし、旭プロダクションか…。原作のあのシュールなホラーと絶妙なコメディのバランス、ちゃんと再現できるのか不安だな。変にアレンジして台無しにだけはしてほしくないね。",
+          "en": "2026 is still so far away, and Asahi Production, huh... I'm really worried if they can actually capture that surreal horror and the perfect comedy balance from the original. I just hope they don't mess it up by changing things weirdly."
+        }
+      },
+      {
+        "author": "ホラコメウォッチャー",
+        "content": {
+          "ja": "『令和のダラさん』アニメ化決定、ついに来たか！ホラーコメディ好きとしては見逃せない。不気味だけど憎めないダラさんと姉弟の日常が、どんなふうに動くのか想像するだけで楽しい。PVが待ち遠しいね。",
+          "en": "OMG, the anime adaptation of \"Reiwa no Dara-san\" is finally happening! As a horror-comedy fan, this is an absolute must-watch for me. Just imagining how the daily lives of the creepy yet totally endearing Dara-san and the siblings will unfold is already making me so excited. Can't wait for the PV!"
+        }
+      },
+      {
+        "author": "深読みの民",
+        "content": {
+          "ja": "ティザービジュアルの時点で原作の不穏な空気を完璧に捉えてたから、アニメのクオリティも相当期待できそう。ダラさんのデザインとか、あの何とも言えない表情がどうアニメで表現されるのか早く見たい。",
+          "en": "Even just from the teaser visual, it totally nailed the unsettling atmosphere of the original. So, I'm super hyped for the anime's quality! I'm dying to see how Dara's design, and especially that indescribable expression, will be brought to life in the animation!"
         }
       }
     ]
