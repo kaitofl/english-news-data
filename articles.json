@@ -153,6 +153,7 @@
         }
       }
     ],
+    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-domestic-1.mp3",
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-domestic-1.png",
     "publishedAt": "2026/3/16",
     "comments": [
@@ -186,8 +187,7 @@
           "en": "These situations always show up in prices later, and that's the most exhausting part."
         }
       }
-    ],
-    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-domestic-1.mp3"
+    ]
   },
   {
     "id": "20260316-international-1",
@@ -238,6 +238,7 @@
         "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-8.mp3"
       }
     ],
+    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-international-1.mp3",
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-international-1.png",
     "publishedAt": "2026/3/16",
     "comments": [
@@ -271,8 +272,7 @@
           "en": "Dubai airport feels like a familiar transit hub, so the weight of this news hits immediately."
         }
       }
-    ],
-    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-international-1.mp3"
+    ]
   },
   {
     "id": "20260316-business-1",
@@ -323,6 +323,7 @@
         "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-8.mp3"
       }
     ],
+    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-business-1.mp3",
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-business-1.png",
     "publishedAt": "2026/3/16",
     "comments": [
@@ -356,8 +357,7 @@
           "en": "It looks like a faraway negotiation, but it comes back to prices and jobs, so I can't ignore it."
         }
       }
-    ],
-    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-business-1.mp3"
+    ]
   },
   {
     "id": "20260316-entertainment-1",
@@ -408,6 +408,7 @@
         "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-8.mp3"
       }
     ],
+    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-entertainment-1.mp3",
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-entertainment-1.png",
     "publishedAt": "2026/3/16",
     "comments": [
@@ -441,8 +442,7 @@
           "en": "It's lovely for movie lovers when good films become widely known like this."
         }
       }
-    ],
-    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-entertainment-1.mp3"
+    ]
   },
   {
     "id": "20260316-sports-1",
@@ -493,6 +493,7 @@
         "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-8.mp3"
       }
     ],
+    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-sports-1.mp3",
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-sports-1.png",
     "publishedAt": "2026/3/16",
     "comments": [
@@ -526,8 +527,7 @@
           "en": "I love those tournaments where players you barely knew suddenly look like stars."
         }
       }
-    ],
-    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-sports-1.mp3"
+    ]
   },
   {
     "id": "20260316-technology-1",
@@ -578,6 +578,7 @@
         "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-8.mp3"
       }
     ],
+    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-technology-1.mp3",
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-technology-1.png",
     "publishedAt": "2026/3/16",
     "comments": [
@@ -611,7 +612,6 @@
           "en": "Expectations are so high that after announcements, we have to judge the substance carefully or it turns into pure hype."
         }
       }
-    ],
-    "fullAudioUrl": "https://kaitofl.github.io/english-news-data/audio-full/20260316-technology-1.mp3"
+    ]
   }
 ]
