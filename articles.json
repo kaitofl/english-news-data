@@ -9,35 +9,128 @@
     "content": [
       {
         "ja": "日本政府は中東情勢の緊迫化を受け、石油備蓄を放出する方針を打ち出している。",
-        "en": "Japan's government has announced a policy to release oil reserves in response to escalating tensions in the Middle East."
+        "en": "Japan's government has announced a policy to release oil reserves in response to escalating tensions in the Middle East.",
+        "explanation": {
+          "grammar": [
+            "in response to + 名詞 で「〜に対応して／〜を受けて」を表す。"
+          ],
+          "vocabulary": [
+            {
+              "term": "escalating tensions",
+              "meaningJa": "緊張の高まり",
+              "note": "外交・安全保障ニュースで頻出の表現。"
+            }
+          ]
+        }
       },
       {
         "ja": "高市首相は3月11日、3月16日にも備蓄放出を始める考えを示し、IEAの協調放出とも歩調を合わせる姿勢を見せた。",
-        "en": "On March 11, Prime Minister Sanae Takaichi said releases could begin as early as March 16 and signaled alignment with IEA-coordinated actions."
+        "en": "On March 11, Prime Minister Sanae Takaichi said releases could begin as early as March 16 and signaled alignment with IEA-coordinated actions.",
+        "explanation": {
+          "grammar": [
+            "as early as + 日付 で「早ければ〜に」を表す言い回し。"
+          ],
+          "vocabulary": [
+            {
+              "term": "signaled alignment with",
+              "meaningJa": "〜と足並みをそろえる姿勢を示した"
+            }
+          ]
+        }
       },
       {
         "ja": "原油高が長引けば、ガソリン価格や物流費の上昇を通じて家計への負担が強まりやすい。",
-        "en": "If high crude prices persist, households are likely to face heavier pressure through rising gasoline and logistics costs."
+        "en": "If high crude prices persist, households are likely to face heavier pressure through rising gasoline and logistics costs.",
+        "explanation": {
+          "grammar": [
+            "If節 + 主節で条件を示し、are likely to で「〜しそうだ」を表す。"
+          ],
+          "vocabulary": [
+            {
+              "term": "persist",
+              "meaningJa": "（状況が）長引く、続く"
+            }
+          ]
+        }
       },
       {
         "ja": "今回の対応は、供給不安による急激な価格上昇を和らげる狙いがある。",
-        "en": "The aim of the move is to ease a sudden price spike driven by supply concerns."
+        "en": "The aim of the move is to ease a sudden price spike driven by supply concerns.",
+        "explanation": {
+          "grammar": [
+            "The aim of A is to B は「Aの目的はBすること」という定型。"
+          ],
+          "vocabulary": [
+            {
+              "term": "price spike",
+              "meaningJa": "急激な価格上昇"
+            }
+          ]
+        }
       },
       {
         "ja": "日本は原油輸入の大半を中東に依存しており、ホルムズ海峡の混乱は国内生活に直結しやすい。",
-        "en": "Because Japan depends heavily on Middle Eastern crude imports, instability around the Strait of Hormuz can quickly affect daily life."
+        "en": "Because Japan depends heavily on Middle Eastern crude imports, instability around the Strait of Hormuz can quickly affect daily life.",
+        "explanation": {
+          "grammar": [
+            "Because節を文頭に置いて、理由を先に示す構文。"
+          ],
+          "vocabulary": [
+            {
+              "term": "depends heavily on",
+              "meaningJa": "〜に大きく依存している"
+            },
+            {
+              "term": "the Strait of Hormuz",
+              "meaningJa": "ホルムズ海峡"
+            }
+          ]
+        }
       },
       {
         "ja": "企業側でも輸送コストや電力コストの先高観が強まっており、備えを急ぐ動きが出ている。",
-        "en": "Companies are also accelerating contingency plans as expectations for higher transport and power costs build."
+        "en": "Companies are also accelerating contingency plans as expectations for higher transport and power costs build.",
+        "explanation": {
+          "grammar": [
+            "as expectations ... build で「〜という見方が強まる中で」を表す。"
+          ],
+          "vocabulary": [
+            {
+              "term": "contingency plans",
+              "meaningJa": "緊急時対応計画"
+            }
+          ]
+        }
       },
       {
         "ja": "政府はガソリン価格の抑制策も併用し、消費者への影響をできるだけ抑えたい考えだ。",
-        "en": "The government also plans to use gasoline price measures in parallel to limit the impact on consumers."
+        "en": "The government also plans to use gasoline price measures in parallel to limit the impact on consumers.",
+        "explanation": {
+          "grammar": [
+            "in parallel to + 動詞 で「〜と並行して」を表す。"
+          ],
+          "vocabulary": [
+            {
+              "term": "limit the impact on consumers",
+              "meaningJa": "消費者への影響を抑える"
+            }
+          ]
+        }
       },
       {
         "ja": "海外の危機が日本の暮らしにどうつながるのかを考えるうえで、注目度の高い国内トピックになっている。",
-        "en": "This is a highly relevant domestic topic because it shows how an overseas crisis can feed directly into everyday life in Japan."
+        "en": "This is a highly relevant domestic topic because it shows how an overseas crisis can feed directly into everyday life in Japan.",
+        "explanation": {
+          "grammar": [
+            "shows how ... can ... で「どのように〜し得るか」を説明する間接疑問の形。"
+          ],
+          "vocabulary": [
+            {
+              "term": "feed directly into",
+              "meaningJa": "（結果として）直接つながる、波及する"
+            }
+          ]
+        }
       }
     ],
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-domestic-1.png",
