@@ -21,7 +21,8 @@
               "note": "外交・安全保障ニュースで頻出の表現。"
             }
           ]
-        }
+        },
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-domestic-1-1.mp3"
       },
       {
         "ja": "高市首相は3月11日、3月16日にも備蓄放出を始める考えを示し、IEAの協調放出とも歩調を合わせる姿勢を見せた。",
@@ -36,7 +37,8 @@
               "meaningJa": "〜と足並みをそろえる姿勢を示した"
             }
           ]
-        }
+        },
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-domestic-1-2.mp3"
       },
       {
         "ja": "原油高が長引けば、ガソリン価格や物流費の上昇を通じて家計への負担が強まりやすい。",
@@ -51,7 +53,8 @@
               "meaningJa": "（状況が）長引く、続く"
             }
           ]
-        }
+        },
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-domestic-1-3.mp3"
       },
       {
         "ja": "今回の対応は、供給不安による急激な価格上昇を和らげる狙いがある。",
@@ -66,7 +69,8 @@
               "meaningJa": "急激な価格上昇"
             }
           ]
-        }
+        },
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-domestic-1-4.mp3"
       },
       {
         "ja": "日本は原油輸入の大半を中東に依存しており、ホルムズ海峡の混乱は国内生活に直結しやすい。",
@@ -85,7 +89,8 @@
               "meaningJa": "ホルムズ海峡"
             }
           ]
-        }
+        },
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-domestic-1-5.mp3"
       },
       {
         "ja": "企業側でも輸送コストや電力コストの先高観が強まっており、備えを急ぐ動きが出ている。",
@@ -100,7 +105,8 @@
               "meaningJa": "緊急時対応計画"
             }
           ]
-        }
+        },
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-domestic-1-6.mp3"
       },
       {
         "ja": "政府はガソリン価格の抑制策も併用し、消費者への影響をできるだけ抑えたい考えだ。",
@@ -115,7 +121,8 @@
               "meaningJa": "消費者への影響を抑える"
             }
           ]
-        }
+        },
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-domestic-1-7.mp3"
       },
       {
         "ja": "海外の危機が日本の暮らしにどうつながるのかを考えるうえで、注目度の高い国内トピックになっている。",
@@ -130,7 +137,8 @@
               "meaningJa": "（結果として）直接つながる、波及する"
             }
           ]
-        }
+        },
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-domestic-1-8.mp3"
       }
     ],
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-domestic-1.png",
@@ -178,35 +186,43 @@
     "content": [
       {
         "ja": "イランによる攻撃の影響で、ドバイ国際空港が一時的に運航停止となった。",
-        "en": "The impact of Iranian attacks temporarily disrupted operations at Dubai International Airport."
+        "en": "The impact of Iranian attacks temporarily disrupted operations at Dubai International Airport.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-1.mp3"
       },
       {
         "ja": "中東情勢の悪化が軍事施設だけでなく、民間の交通や商業インフラにも波及した形だ。",
-        "en": "The deterioration in the Middle East has now spread beyond military facilities into civilian transport and commercial infrastructure."
+        "en": "The deterioration in the Middle East has now spread beyond military facilities into civilian transport and commercial infrastructure.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-2.mp3"
       },
       {
         "ja": "ドバイは世界有数の航空・物流拠点だけに、空港の停止は国際経済への連想を広げやすい。",
-        "en": "Because Dubai is one of the world's key aviation and logistics hubs, even a temporary halt quickly raises concerns about the broader global economy."
+        "en": "Because Dubai is one of the world's key aviation and logistics hubs, even a temporary halt quickly raises concerns about the broader global economy.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-3.mp3"
       },
       {
         "ja": "湾岸地域では港湾やエネルギー施設への不安も強まり、企業活動への影響が懸念されている。",
-        "en": "Across the Gulf, anxiety is also growing around ports and energy facilities, increasing risks for business activity."
+        "en": "Across the Gulf, anxiety is also growing around ports and energy facilities, increasing risks for business activity.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-4.mp3"
       },
       {
         "ja": "観光や乗り継ぎの拠点として利用者が多い場所だけに、一般読者にも状況が伝わりやすい。",
-        "en": "As a major transit point used by many travelers, the disruption is easy for general readers to grasp in practical terms."
+        "en": "As a major transit point used by many travelers, the disruption is easy for general readers to grasp in practical terms.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-5.mp3"
       },
       {
         "ja": "戦闘の長期化は、サプライチェーンや航空網の混乱をさらに広げるおそれがある。",
-        "en": "If the conflict drags on, supply-chain and aviation network disruption could expand further."
+        "en": "If the conflict drags on, supply-chain and aviation network disruption could expand further.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-6.mp3"
       },
       {
         "ja": "各国が外交的な沈静化を模索しているものの、現時点では緊張緩和の道筋は見えにくい。",
-        "en": "Countries are searching for diplomatic off-ramps, but there is still no clear path to de-escalation for now."
+        "en": "Countries are searching for diplomatic off-ramps, but there is still no clear path to de-escalation for now.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-7.mp3"
       },
       {
         "ja": "地域紛争が世界の移動と商業を揺らす象徴的なニュースとして、国際面の本命候補といえる。",
-        "en": "This stands out as a symbolic international story of how a regional conflict can shake global mobility and commerce."
+        "en": "This stands out as a symbolic international story of how a regional conflict can shake global mobility and commerce.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-8.mp3"
       }
     ],
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-international-1.png",
@@ -254,35 +270,43 @@
     "content": [
       {
         "ja": "米国と中国の高官による通商協議がパリで続き、市場の注目を集めている。",
-        "en": "Senior US and Chinese officials continued trade talks in Paris, drawing close market attention."
+        "en": "Senior US and Chinese officials continued trade talks in Paris, drawing close market attention.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-1.mp3"
       },
       {
         "ja": "協議は3月15日に始まり、16日も関連発言や日程調整が続き、先行きへの関心が高まった。",
-        "en": "The talks started on March 15, and related statements and scheduling on the 16th kept focus on what comes next."
+        "en": "The talks started on March 15, and related statements and scheduling on the 16th kept focus on what comes next.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-2.mp3"
       },
       {
         "ja": "関税や投資規制、供給網の見直しは、世界景気を左右するテーマとして重みが大きい。",
-        "en": "Tariffs, investment restrictions, and supply-chain realignment remain heavyweight issues for the global economy."
+        "en": "Tariffs, investment restrictions, and supply-chain realignment remain heavyweight issues for the global economy.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-3.mp3"
       },
       {
         "ja": "協議が前進すれば、製造業や半導体関連を中心に企業の投資マインド改善につながる可能性がある。",
-        "en": "If negotiations advance, investor sentiment could improve, especially in manufacturing and semiconductor-linked sectors."
+        "en": "If negotiations advance, investor sentiment could improve, especially in manufacturing and semiconductor-linked sectors.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-4.mp3"
       },
       {
         "ja": "一方で対立が再燃すれば、サプライチェーンの再編やコスト増が続く懸念は消えない。",
-        "en": "If tensions re-escalate, however, concerns about renewed cost pressure and further supply-chain restructuring will remain."
+        "en": "If tensions re-escalate, however, concerns about renewed cost pressure and further supply-chain restructuring will remain.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-5.mp3"
       },
       {
         "ja": "日本企業にとっても、中国需要や米国向け輸出への影響は無視しにくい。",
-        "en": "For Japanese companies as well, this is hard to ignore because of exposure to both Chinese demand and US-bound business."
+        "en": "For Japanese companies as well, this is hard to ignore because of exposure to both Chinese demand and US-bound business.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-6.mp3"
       },
       {
         "ja": "市場は今回の協議そのものに加え、今後の首脳外交へつながるかどうかも見極めようとしている。",
-        "en": "Markets are not only watching the talks themselves but also whether they can lead to broader leader-level diplomacy."
+        "en": "Markets are not only watching the talks themselves but also whether they can lead to broader leader-level diplomacy.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-7.mp3"
       },
       {
         "ja": "外交ニュースでありながら企業収益や株価にも直結しうるため、経済記事としての引きが強い。",
-        "en": "Although framed as diplomacy, this story has direct implications for earnings and valuations, making it a strong business headline."
+        "en": "Although framed as diplomacy, this story has direct implications for earnings and valuations, making it a strong business headline.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-8.mp3"
       }
     ],
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-business-1.png",
@@ -330,35 +354,43 @@
     "content": [
       {
         "ja": "第98回アカデミー賞の受賞結果が出そろい、今年の映画界を代表する作品が決まった。",
-        "en": "The 98th Academy Awards results are now in, defining this year's standout films."
+        "en": "The 98th Academy Awards results are now in, defining this year's standout films.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-1.mp3"
       },
       {
         "ja": "作品賞は『One Battle After Another』が受賞し、監督賞でも存在感を示した。",
-        "en": "'One Battle After Another' won Best Picture and also made a strong showing with Best Director."
+        "en": "'One Battle After Another' won Best Picture and also made a strong showing with Best Director.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-2.mp3"
       },
       {
         "ja": "主演男優賞や主演女優賞を含む主要部門の結果も発表され、授賞式は大きな話題となった。",
-        "en": "Results in major categories including Best Actor and Best Actress were announced, driving broad discussion around the ceremony."
+        "en": "Results in major categories including Best Actor and Best Actress were announced, driving broad discussion around the ceremony.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-3.mp3"
       },
       {
         "ja": "アカデミー賞は映画ファンだけでなく、一般の視聴者が次に何を見るかを左右しやすいイベントだ。",
-        "en": "The Oscars influence not only film fans but also mainstream viewers deciding what to watch next."
+        "en": "The Oscars influence not only film fans but also mainstream viewers deciding what to watch next.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-4.mp3"
       },
       {
         "ja": "受賞作はこの後、配信や日本公開のタイミングでも改めて注目される可能性が高い。",
-        "en": "Winning titles are likely to attract another wave of attention around streaming and Japanese release timing."
+        "en": "Winning titles are likely to attract another wave of attention around streaming and Japanese release timing.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-5.mp3"
       },
       {
         "ja": "今年は娯楽性の強い作品と作家性の高い作品の両方が評価された印象がある。",
-        "en": "This year gave the impression that both broadly entertaining works and strongly authored films were recognized."
+        "en": "This year gave the impression that both broadly entertaining works and strongly authored films were recognized.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-6.mp3"
       },
       {
         "ja": "授賞結果が固まったことで、賞レースを追っていなかった層にもニュースとして届きやすくなった。",
-        "en": "Now that results are finalized, the story is easier to follow even for people who did not track awards season closely."
+        "en": "Now that results are finalized, the story is easier to follow even for people who did not track awards season closely.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-7.mp3"
       },
       {
         "ja": "結果ベースで語れる当日トピックとして、エンタメ枠では最も分かりやすい1本になっている。",
-        "en": "As a same-day results story, this is the clearest and strongest entertainment pick."
+        "en": "As a same-day results story, this is the clearest and strongest entertainment pick.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-8.mp3"
       }
     ],
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-entertainment-1.png",
@@ -406,35 +438,43 @@
     "content": [
       {
         "ja": "米大学バスケットボールの春の祭典、NCAA男子トーナメントの組み合わせが発表された。",
-        "en": "The bracket for the NCAA men's basketball tournament, one of spring's biggest events, has been announced."
+        "en": "The bracket for the NCAA men's basketball tournament, one of spring's biggest events, has been announced.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-1.mp3"
       },
       {
         "ja": "APによると、デューク、アリゾナ、ミシガン、フロリダが第1シードに入った。",
-        "en": "According to AP, Duke, Arizona, Michigan, and Florida were named No. 1 seeds."
+        "en": "According to AP, Duke, Arizona, Michigan, and Florida were named No. 1 seeds.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-2.mp3"
       },
       {
         "ja": "毎年注目を集めるSelection Sundayは、全米スポーツイベントとしての存在感が大きい。",
-        "en": "Selection Sunday remains a major annual US sports event with strong media gravity."
+        "en": "Selection Sunday remains a major annual US sports event with strong media gravity.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-3.mp3"
       },
       {
         "ja": "番狂わせの多さで知られる大会だけに、組み合わせ発表の段階から話題が一気に広がりやすい。",
-        "en": "Because the tournament is known for upsets, buzz expands rapidly from the bracket-release stage."
+        "en": "Because the tournament is known for upsets, buzz expands rapidly from the bracket-release stage.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-4.mp3"
       },
       {
         "ja": "有力校の故障者情報や山の偏りも、優勝争いを読む材料として注目されている。",
-        "en": "Injury updates and bracket-path balance are already key factors in early title projections."
+        "en": "Injury updates and bracket-path balance are already key factors in early title projections.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-5.mp3"
       },
       {
         "ja": "日本ではNBAやNCAAを追う層が限られるものの、世界のバスケットボール文化を映す大型イベントだ。",
-        "en": "Even though the audience in Japan that closely follows NCAA basketball is limited, it remains a major global basketball culture event."
+        "en": "Even though the audience in Japan that closely follows NCAA basketball is limited, it remains a major global basketball culture event.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-6.mp3"
       },
       {
         "ja": "今後はFirst Fourから本大会序盤にかけて、スター候補や波乱の展開が次々に焦点になる。",
-        "en": "From the First Four through the early rounds, breakout players and chaotic storylines are likely to take center stage."
+        "en": "From the First Four through the early rounds, breakout players and chaotic storylines are likely to take center stage.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-7.mp3"
       },
       {
         "ja": "本大会が始まる前から全米の視線を集めるこの発表は、3月16日付のスポーツニュースとして十分な強さがある。",
-        "en": "With nationwide attention before tip-off, this release clearly qualifies as a strong March 16 sports story."
+        "en": "With nationwide attention before tip-off, this release clearly qualifies as a strong March 16 sports story.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-8.mp3"
       }
     ],
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-sports-1.png",
@@ -482,35 +522,43 @@
     "content": [
       {
         "ja": "NVIDIAの年次イベント GTC 2026 が3月16日に開幕し、AI業界の視線が集まっている。",
-        "en": "NVIDIA's annual event GTC 2026 opened on March 16, drawing concentrated attention from the AI industry."
+        "en": "NVIDIA's annual event GTC 2026 opened on March 16, drawing concentrated attention from the AI industry.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-1.mp3"
       },
       {
         "ja": "同日にはJensen Huang氏の基調講演が予定され、新しい技術戦略や製品発表への期待が高い。",
-        "en": "CEO Jensen Huang's keynote was scheduled the same day, heightening expectations for strategy and product announcements."
+        "en": "CEO Jensen Huang's keynote was scheduled the same day, heightening expectations for strategy and product announcements.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-2.mp3"
       },
       {
         "ja": "GTCは半導体だけでなく、推論、ロボティクス、AIインフラ全体を見通すイベントとして存在感を強めている。",
-        "en": "GTC is now influential not just for chips but for the broader stack including inference, robotics, and AI infrastructure."
+        "en": "GTC is now influential not just for chips but for the broader stack including inference, robotics, and AI infrastructure.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-3.mp3"
       },
       {
         "ja": "生成AIブームが続く中で、NVIDIAの打ち出す方向性は業界全体の投資判断にも影響しやすい。",
-        "en": "With the generative AI wave still expanding, NVIDIA's direction can materially shape wider investment decisions."
+        "en": "With the generative AI wave still expanding, NVIDIA's direction can materially shape wider investment decisions.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-4.mp3"
       },
       {
         "ja": "日本企業にとっても、AI導入やデータセンター投資の判断材料になる可能性がある。",
-        "en": "For Japanese companies as well, the event could influence judgments on AI adoption and data-center investment."
+        "en": "For Japanese companies as well, the event could influence judgments on AI adoption and data-center investment.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-5.mp3"
       },
       {
         "ja": "特に今回は、チップ単体よりも電力やネットワークを含めた全体設計に関心が集まりそうだ。",
-        "en": "This year, attention is likely to center on full-system design including power and networking, not chips in isolation."
+        "en": "This year, attention is likely to center on full-system design including power and networking, not chips in isolation.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-6.mp3"
       },
       {
         "ja": "講演内容が出そろえば、今後1年のAI市場テーマを占う材料として繰り返し参照されるだろう。",
-        "en": "Once details from the keynote are fully available, they are likely to be referenced repeatedly as signals for the coming year."
+        "en": "Once details from the keynote are fully available, they are likely to be referenced repeatedly as signals for the coming year.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-7.mp3"
       },
       {
         "ja": "大型イベント当日に書けるテクノロジー記事として、非常に扱いやすいトピックになっている。",
-        "en": "As a same-day technology story, this is a highly practical and high-impact topic."
+        "en": "As a same-day technology story, this is a highly practical and high-impact topic.",
+        "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-8.mp3"
       }
     ],
     "imageUrl": "https://kaitofl.github.io/english-news-data/images/20260316-technology-1.png",
