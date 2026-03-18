@@ -246,7 +246,8 @@
           "en": "These situations always show up in prices later, and that's the most exhausting part."
         }
       }
-    ]
+    ],
+    "fullAudioEnJaUrl": "https://kaitofl.github.io/english-news-data/audio-full-enja/20260316-domestic-1.mp3"
   },
   {
     "id": "20260316-international-1",
@@ -331,7 +332,8 @@
           "en": "Dubai airport feels like a familiar transit hub, so the weight of this news hits immediately."
         }
       }
-    ]
+    ],
+    "fullAudioEnJaUrl": "https://kaitofl.github.io/english-news-data/audio-full-enja/20260316-international-1.mp3"
   },
   {
     "id": "20260316-business-1",
@@ -416,7 +418,8 @@
           "en": "It looks like a faraway negotiation, but it comes back to prices and jobs, so I can't ignore it."
         }
       }
-    ]
+    ],
+    "fullAudioEnJaUrl": "https://kaitofl.github.io/english-news-data/audio-full-enja/20260316-business-1.mp3"
   },
   {
     "id": "20260316-entertainment-1",
@@ -501,7 +504,8 @@
           "en": "It's lovely for movie lovers when good films become widely known like this."
         }
       }
-    ]
+    ],
+    "fullAudioEnJaUrl": "https://kaitofl.github.io/english-news-data/audio-full-enja/20260316-entertainment-1.mp3"
   },
   {
     "id": "20260316-sports-1",
@@ -586,7 +590,8 @@
           "en": "I love those tournaments where players you barely knew suddenly look like stars."
         }
       }
-    ]
+    ],
+    "fullAudioEnJaUrl": "https://kaitofl.github.io/english-news-data/audio-full-enja/20260316-sports-1.mp3"
   },
   {
     "id": "20260316-technology-1",
@@ -671,6 +676,7 @@
           "en": "Expectations are so high that after announcements, we have to judge the substance carefully or it turns into pure hype."
         }
       }
-    ]
+    ],
+    "fullAudioEnJaUrl": "https://kaitofl.github.io/english-news-data/audio-full-enja/20260316-technology-1.mp3"
   }
 ]
