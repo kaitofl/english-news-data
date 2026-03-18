@@ -17,9 +17,16 @@
           ],
           "vocabulary": [
             {
+              "term": "escalating",
+              "meaningJa": "激化する"
+            },
+            {
+              "term": "reserves",
+              "meaningJa": "備蓄"
+            },
+            {
               "term": "tensions",
-              "meaningJa": "緊張（した状況）",
-              "note": "外交・安全保障ニュースで頻出の表現。"
+              "meaningJa": "緊張（した状況）"
             }
           ]
         }
@@ -33,6 +40,14 @@
             "as early as + 日付 で「早ければ〜に」を表す言い回し。"
           ],
           "vocabulary": [
+            {
+              "term": "coordinated",
+              "meaningJa": "協調した"
+            },
+            {
+              "term": "alignment",
+              "meaningJa": "足並み、一致"
+            },
             {
               "term": "IEA",
               "meaningJa": "国際エネルギー機関"
@@ -50,8 +65,16 @@
           ],
           "vocabulary": [
             {
+              "term": "logistics",
+              "meaningJa": "物流"
+            },
+            {
               "term": "crude",
               "meaningJa": "原油（= crude oil の略語的用法）"
+            },
+            {
+              "term": "persist",
+              "meaningJa": "（状況が）長引く、続く"
             }
           ]
         }
@@ -68,6 +91,14 @@
             {
               "term": "spike",
               "meaningJa": "急上昇"
+            },
+            {
+              "term": "driven",
+              "meaningJa": "〜によって引き起こされた"
+            },
+            {
+              "term": "concerns",
+              "meaningJa": "懸念"
             }
           ]
         }
@@ -82,12 +113,16 @@
           ],
           "vocabulary": [
             {
-              "term": "Strait of Hormuz",
-              "meaningJa": "ホルムズ海峡"
-            },
-            {
               "term": "instability",
               "meaningJa": "不安定化"
+            },
+            {
+              "term": "imports",
+              "meaningJa": "輸入"
+            },
+            {
+              "term": "Strait of Hormuz",
+              "meaningJa": "ホルムズ海峡"
             }
           ],
           "phrases": [
@@ -110,6 +145,14 @@
             {
               "term": "contingency",
               "meaningJa": "不測事態、緊急事態"
+            },
+            {
+              "term": "accelerating",
+              "meaningJa": "加速している"
+            },
+            {
+              "term": "expectations",
+              "meaningJa": "見通し、予想"
             }
           ]
         }
@@ -123,6 +166,14 @@
             "in parallel to + 動詞 で「〜と並行して」を表す。"
           ],
           "vocabulary": [
+            {
+              "term": "parallel",
+              "meaningJa": "並行して"
+            },
+            {
+              "term": "measures",
+              "meaningJa": "対策"
+            },
             {
               "term": "consumers",
               "meaningJa": "消費者"
@@ -139,6 +190,14 @@
             "shows how ... can ... で「どのように〜し得るか」を説明する間接疑問の形。"
           ],
           "vocabulary": [
+            {
+              "term": "relevant",
+              "meaningJa": "関連性の高い"
+            },
+            {
+              "term": "overseas",
+              "meaningJa": "海外の"
+            },
             {
               "term": "crisis",
               "meaningJa": "危機"
