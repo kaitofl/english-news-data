@@ -6,44 +6,6 @@
       "ja": "日本が石油備蓄放出へ、中東情勢受け家計と物流への影響を抑制",
       "en": "Japan to Release Strategic Oil Reserves as Middle East Tensions Threaten Household and Logistics Costs"
     },
-    "threeLineSummary": [
-      {
-        "id": "what_happened",
-        "label": {
-          "ja": "何が起きたか",
-          "en": "What happened"
-        },
-        "content": {
-          "ja": "日本政府は中東情勢の緊迫化を受け、石油備蓄を放出する方針を打ち出している。",
-          "en": "Japan's government has announced a policy to release oil reserves in response to escalating tensions in the Middle East.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-domestic-1-summary-1.mp3"
-        }
-      },
-      {
-        "id": "why_important",
-        "label": {
-          "ja": "なぜ重要か",
-          "en": "Why it matters"
-        },
-        "content": {
-          "ja": "原油高が長引けば、ガソリン価格や物流費の上昇を通じて家計への負担が強まりやすい。",
-          "en": "If high crude prices persist, households are likely to face heavier pressure through rising gasoline and logistics costs.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-domestic-1-summary-2.mp3"
-        }
-      },
-      {
-        "id": "how_it_matters_to_us",
-        "label": {
-          "ja": "私たちにどう関係あるか",
-          "en": "How it relates to us"
-        },
-        "content": {
-          "ja": "海外の危機が日本の暮らしにどうつながるのかを考えるうえで、注目度の高い国内トピックになっている。",
-          "en": "This is a highly relevant domestic topic because it shows how an overseas crisis can feed directly into everyday life in Japan.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-domestic-1-summary-3.mp3"
-        }
-      }
-    ],
     "content": [
       {
         "ja": "日本政府は中東情勢の緊迫化を受け、石油備蓄を放出する方針を打ち出している。",
@@ -293,44 +255,6 @@
       "ja": "イランの攻撃でドバイ空港が一時停止、湾岸の商業インフラにも打撃",
       "en": "Iranian Strikes Temporarily Halt Dubai Airport, Hitting Gulf Commercial Infrastructure"
     },
-    "threeLineSummary": [
-      {
-        "id": "what_happened",
-        "label": {
-          "ja": "何が起きたか",
-          "en": "What happened"
-        },
-        "content": {
-          "ja": "イランによる攻撃の影響で、ドバイ国際空港が一時的に運航停止となった。",
-          "en": "The impact of Iranian attacks temporarily disrupted operations at Dubai International Airport.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-summary-1.mp3"
-        }
-      },
-      {
-        "id": "why_important",
-        "label": {
-          "ja": "なぜ重要か",
-          "en": "Why it matters"
-        },
-        "content": {
-          "ja": "ドバイは世界有数の航空・物流拠点だけに、空港の停止は国際経済への連想を広げやすい。",
-          "en": "Because Dubai is one of the world's key aviation and logistics hubs, even a temporary halt quickly raises concerns about the broader global economy.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-summary-2.mp3"
-        }
-      },
-      {
-        "id": "how_it_matters_to_us",
-        "label": {
-          "ja": "私たちにどう関係あるか",
-          "en": "How it relates to us"
-        },
-        "content": {
-          "ja": "地域紛争が世界の移動と商業を揺らす象徴的なニュースとして、国際面の本命候補といえる。",
-          "en": "This stands out as a symbolic international story of how a regional conflict can shake global mobility and commerce.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-international-1-summary-3.mp3"
-        }
-      }
-    ],
     "content": [
       {
         "ja": "イランによる攻撃の影響で、ドバイ国際空港が一時的に運航停止となった。",
@@ -614,44 +538,6 @@
       "ja": "米中通商協議がパリで進展焦点、首脳外交もにらみ市場が注視",
       "en": "US-China Trade Talks Continue in Paris as Markets Watch for Diplomatic Progress"
     },
-    "threeLineSummary": [
-      {
-        "id": "what_happened",
-        "label": {
-          "ja": "何が起きたか",
-          "en": "What happened"
-        },
-        "content": {
-          "ja": "米国と中国の高官による通商協議がパリで続き、市場の注目を集めている。",
-          "en": "Senior US and Chinese officials continued trade talks in Paris, drawing close market attention.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-summary-1.mp3"
-        }
-      },
-      {
-        "id": "why_important",
-        "label": {
-          "ja": "なぜ重要か",
-          "en": "Why it matters"
-        },
-        "content": {
-          "ja": "関税や投資規制、供給網の見直しは、世界景気を左右するテーマとして重みが大きい。",
-          "en": "Tariffs, investment restrictions, and supply-chain realignment remain heavyweight issues for the global economy.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-summary-2.mp3"
-        }
-      },
-      {
-        "id": "how_it_matters_to_us",
-        "label": {
-          "ja": "私たちにどう関係あるか",
-          "en": "How it relates to us"
-        },
-        "content": {
-          "ja": "外交ニュースでありながら企業収益や株価にも直結しうるため、経済記事としての引きが強い。",
-          "en": "Although framed as diplomacy, this story has direct implications for earnings and valuations, making it a strong business headline.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-business-1-summary-3.mp3"
-        }
-      }
-    ],
     "content": [
       {
         "ja": "米国と中国の高官による通商協議がパリで続き、市場の注目を集めている。",
@@ -938,44 +824,6 @@
       "ja": "第98回アカデミー賞で『One Battle After Another』が作品賞と監督賞を獲得",
       "en": "At the 98th Oscars, 'One Battle After Another' Wins Best Picture and Best Director"
     },
-    "threeLineSummary": [
-      {
-        "id": "what_happened",
-        "label": {
-          "ja": "何が起きたか",
-          "en": "What happened"
-        },
-        "content": {
-          "ja": "第98回アカデミー賞の受賞結果が出そろい、今年の映画界を代表する作品が決まった。",
-          "en": "The 98th Academy Awards results are now in, defining this year's standout films.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-summary-1.mp3"
-        }
-      },
-      {
-        "id": "why_important",
-        "label": {
-          "ja": "なぜ重要か",
-          "en": "Why it matters"
-        },
-        "content": {
-          "ja": "主演男優賞や主演女優賞を含む主要部門の結果も発表され、授賞式は大きな話題となった。",
-          "en": "Results in major categories including Best Actor and Best Actress were announced, driving broad discussion around the ceremony.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-summary-2.mp3"
-        }
-      },
-      {
-        "id": "how_it_matters_to_us",
-        "label": {
-          "ja": "私たちにどう関係あるか",
-          "en": "How it relates to us"
-        },
-        "content": {
-          "ja": "結果ベースで語れる当日トピックとして、エンタメ枠では最も分かりやすい1本になっている。",
-          "en": "As a same-day results story, this is the clearest and strongest entertainment pick.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-entertainment-1-summary-3.mp3"
-        }
-      }
-    ],
     "content": [
       {
         "ja": "第98回アカデミー賞の受賞結果が出そろい、今年の映画界を代表する作品が決まった。",
@@ -1253,44 +1101,6 @@
       "ja": "NCAA男子トーナメントの組み合わせ決定、デュークなど4校が第1シード",
       "en": "NCAA Men's Tournament Bracket Set, with Duke and Three Others Named No. 1 Seeds"
     },
-    "threeLineSummary": [
-      {
-        "id": "what_happened",
-        "label": {
-          "ja": "何が起きたか",
-          "en": "What happened"
-        },
-        "content": {
-          "ja": "米大学バスケットボールの春の祭典、NCAA男子トーナメントの組み合わせが発表された。",
-          "en": "The bracket for the NCAA men's basketball tournament, one of spring's biggest events, has been announced.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-summary-1.mp3"
-        }
-      },
-      {
-        "id": "why_important",
-        "label": {
-          "ja": "なぜ重要か",
-          "en": "Why it matters"
-        },
-        "content": {
-          "ja": "毎年注目を集めるSelection Sundayは、全米スポーツイベントとしての存在感が大きい。",
-          "en": "Selection Sunday remains a major annual US sports event with strong media gravity.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-summary-2.mp3"
-        }
-      },
-      {
-        "id": "how_it_matters_to_us",
-        "label": {
-          "ja": "私たちにどう関係あるか",
-          "en": "How it relates to us"
-        },
-        "content": {
-          "ja": "本大会が始まる前から全米の視線を集めるこの発表は、3月16日付のスポーツニュースとして十分な強さがある。",
-          "en": "With nationwide attention before tip-off, this release clearly qualifies as a strong March 16 sports story.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-sports-1-summary-3.mp3"
-        }
-      }
-    ],
     "content": [
       {
         "ja": "米大学バスケットボールの春の祭典、NCAA男子トーナメントの組み合わせが発表された。",
@@ -1574,44 +1384,6 @@
       "ja": "NVIDIA GTC 2026が開幕、Jensen Huang氏の基調講演に注目",
       "en": "NVIDIA GTC 2026 Opens, with Focus on Jensen Huang's Keynote"
     },
-    "threeLineSummary": [
-      {
-        "id": "what_happened",
-        "label": {
-          "ja": "何が起きたか",
-          "en": "What happened"
-        },
-        "content": {
-          "ja": "NVIDIAの年次イベント GTC 2026 が3月16日に開幕し、AI業界の視線が集まっている。",
-          "en": "NVIDIA's annual event GTC 2026 opened on March 16, drawing concentrated attention from the AI industry.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-summary-1.mp3"
-        }
-      },
-      {
-        "id": "why_important",
-        "label": {
-          "ja": "なぜ重要か",
-          "en": "Why it matters"
-        },
-        "content": {
-          "ja": "GTCは半導体だけでなく、推論、ロボティクス、AIインフラ全体を見通すイベントとして存在感を強めている。",
-          "en": "GTC is now influential not just for chips but for the broader stack including inference, robotics, and AI infrastructure.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-summary-2.mp3"
-        }
-      },
-      {
-        "id": "how_it_matters_to_us",
-        "label": {
-          "ja": "私たちにどう関係あるか",
-          "en": "How it relates to us"
-        },
-        "content": {
-          "ja": "大型イベント当日に書けるテクノロジー記事として、非常に扱いやすいトピックになっている。",
-          "en": "As a same-day technology story, this is a highly practical and high-impact topic.",
-          "audioUrl": "https://kaitofl.github.io/english-news-data/audio/20260316-technology-1-summary-3.mp3"
-        }
-      }
-    ],
     "content": [
       {
         "ja": "NVIDIAの年次イベント GTC 2026 が3月16日に開幕し、AI業界の視線が集まっている。",
